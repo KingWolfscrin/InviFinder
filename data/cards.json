@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T12:05:18.047Z",
+  "lastUpdated": "2026-10-12T14:20:41.885Z",
   "owners": [
     {
       "name": "Fausto",
@@ -74,12 +74,12 @@
     {
       "name": "Manuel Venturini (Sta Fe)",
       "phone": "+5493425119581",
-      "cardCount": 798
+      "cardCount": 802
     },
     {
       "name": "Bruno (Sta Fe)",
       "phone": "+5493425578095",
-      "cardCount": 3321
+      "cardCount": 3319
     }
   ],
   "cards": {
@@ -4915,27 +4915,11 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 2,
-            "set": "dgm",
-            "setName": "Dragon's Maze",
-            "isFoil": false,
-            "collectorNumber": "146",
-            "scryfallId": "65bbe27d-c92a-4c65-a997-b21536d7667e"
-          },
-          {
-            "qty": 2,
             "set": "rna",
             "setName": "Ravnica Allegiance",
             "isFoil": false,
             "collectorNumber": "243",
             "scryfallId": "93cf5412-c711-41b4-ab3b-7788a0a22228"
-          },
-          {
-            "qty": 2,
-            "set": "rtr",
-            "setName": "Return to Ravnica",
-            "isFoil": false,
-            "collectorNumber": "237",
-            "scryfallId": "984e37df-0734-493a-a958-f519a0c98580"
           },
           {
             "qty": 1,
@@ -4944,6 +4928,22 @@
             "isFoil": false,
             "collectorNumber": "230",
             "scryfallId": "27addb51-f447-458a-8b3d-89de0a4c542a"
+          },
+          {
+            "qty": 2,
+            "set": "dgm",
+            "setName": "Dragon's Maze",
+            "isFoil": false,
+            "collectorNumber": "146",
+            "scryfallId": "65bbe27d-c92a-4c65-a997-b21536d7667e"
+          },
+          {
+            "qty": 2,
+            "set": "rtr",
+            "setName": "Return to Ravnica",
+            "isFoil": false,
+            "collectorNumber": "237",
+            "scryfallId": "984e37df-0734-493a-a958-f519a0c98580"
           }
         ]
       }
@@ -9019,20 +9019,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "dgm",
-            "setName": "Dragon's Maze",
-            "isFoil": true,
-            "collectorNumber": "147",
-            "scryfallId": "e94cc167-a6da-4404-88aa-61eee8b4b9e8"
-          },
-          {
             "qty": 6,
             "set": "gtc",
             "setName": "Gatecrash",
             "isFoil": false,
             "collectorNumber": "239",
             "scryfallId": "a0b447a8-524b-4bda-b975-7e194fd741fb"
+          },
+          {
+            "qty": 1,
+            "set": "dgm",
+            "setName": "Dragon's Maze",
+            "isFoil": true,
+            "collectorNumber": "147",
+            "scryfallId": "e94cc167-a6da-4404-88aa-61eee8b4b9e8"
           }
         ]
       }
@@ -10423,19 +10423,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "uds",
-            "setName": "Urza's Destiny",
-            "isFoil": false,
-            "collectorNumber": "129",
-            "scryfallId": "a9cf74e4-31d2-4cd2-8f3a-b2141301f686"
-          },
-          {
-            "qty": 1,
             "set": "7ed",
             "setName": "Seventh Edition",
             "isFoil": false,
             "collectorNumber": "288",
             "scryfallId": "8769b55a-a0a1-4b6f-8c80-669385a34425"
+          },
+          {
+            "qty": 1,
+            "set": "uds",
+            "setName": "Urza's Destiny",
+            "isFoil": false,
+            "collectorNumber": "129",
+            "scryfallId": "a9cf74e4-31d2-4cd2-8f3a-b2141301f686"
           }
         ]
       }
@@ -11121,20 +11121,20 @@
             "scryfallId": "116ce944-6871-4f51-a889-d9c4a5d7cff2"
           },
           {
-            "qty": 1,
-            "set": "2xm",
-            "setName": "Double Masters",
-            "isFoil": false,
-            "collectorNumber": "79",
-            "scryfallId": "480fecdd-5978-47e6-9c25-7a04cdf616db"
-          },
-          {
             "qty": 3,
             "set": "pdom",
             "setName": "Dominaria Promos",
             "isFoil": true,
             "collectorNumber": "81",
             "scryfallId": "a41150b2-44a6-4e80-8b32-afc6ea744fb3"
+          },
+          {
+            "qty": 1,
+            "set": "2xm",
+            "setName": "Double Masters",
+            "isFoil": false,
+            "collectorNumber": "79",
+            "scryfallId": "480fecdd-5978-47e6-9c25-7a04cdf616db"
           }
         ]
       }
@@ -11373,19 +11373,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "ths",
-            "setName": "Theros",
-            "isFoil": false,
-            "collectorNumber": "3",
-            "scryfallId": "9fa9a809-eda4-406a-8bce-d2a1c5f06388"
-          },
-          {
-            "qty": 1,
             "set": "pths",
             "setName": "Theros Promos",
             "isFoil": true,
             "collectorNumber": "3★",
             "scryfallId": "9d049a62-c047-4c67-8b7e-519e71b96c3b"
+          },
+          {
+            "qty": 1,
+            "set": "ths",
+            "setName": "Theros",
+            "isFoil": false,
+            "collectorNumber": "3",
+            "scryfallId": "9fa9a809-eda4-406a-8bce-d2a1c5f06388"
           }
         ]
       }
@@ -17174,19 +17174,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "bfz",
-            "setName": "Battle for Zendikar",
-            "isFoil": true,
-            "collectorNumber": "107",
-            "scryfallId": "a4b5dd64-9e58-4f22-9d86-7a518d976037"
-          },
-          {
-            "qty": 1,
             "set": "pbfz",
             "setName": "Battle for Zendikar Promos",
             "isFoil": true,
             "collectorNumber": "107s",
             "scryfallId": "5327bc98-56df-450f-8824-88c281a23503"
+          },
+          {
+            "qty": 1,
+            "set": "bfz",
+            "setName": "Battle for Zendikar",
+            "isFoil": true,
+            "collectorNumber": "107",
+            "scryfallId": "a4b5dd64-9e58-4f22-9d86-7a518d976037"
           }
         ]
       }
@@ -22573,19 +22573,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "pkld",
-            "setName": "Kaladesh Promos",
-            "isFoil": false,
-            "collectorNumber": "80",
-            "scryfallId": "c3c096f4-3828-429b-8370-0e82f5548d91"
-          },
-          {
-            "qty": 1,
             "set": "kld",
             "setName": "Kaladesh",
             "isFoil": false,
             "collectorNumber": "80",
             "scryfallId": "d7693c10-5ebb-4896-bb60-63d03577dd60"
+          },
+          {
+            "qty": 1,
+            "set": "pkld",
+            "setName": "Kaladesh Promos",
+            "isFoil": false,
+            "collectorNumber": "80",
+            "scryfallId": "c3c096f4-3828-429b-8370-0e82f5548d91"
           }
         ]
       }
@@ -28496,6 +28496,14 @@
         ],
         "Bruno (Sta Fe)": [
           {
+            "qty": 1,
+            "set": "soa",
+            "setName": "Secrets of Strixhaven Mystical Archive",
+            "isFoil": false,
+            "collectorNumber": "52",
+            "scryfallId": "62652aa9-57e7-42a7-8f2f-62e9a6aefb16"
+          },
+          {
             "qty": 5,
             "set": "p06",
             "setName": "Magic Player Rewards 2006",
@@ -28510,14 +28518,6 @@
             "isFoil": true,
             "collectorNumber": "125",
             "scryfallId": "7b1f6503-e4b2-4085-92cd-e9c522b4b10d"
-          },
-          {
-            "qty": 1,
-            "set": "soa",
-            "setName": "Secrets of Strixhaven Mystical Archive",
-            "isFoil": false,
-            "collectorNumber": "52",
-            "scryfallId": "62652aa9-57e7-42a7-8f2f-62e9a6aefb16"
           }
         ]
       }
@@ -30329,19 +30329,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "rtr",
-            "setName": "Return to Ravnica",
-            "isFoil": false,
-            "collectorNumber": "239",
-            "scryfallId": "8fe2fd1a-f7d3-48b4-bad8-be5ee45d6121"
-          },
-          {
-            "qty": 1,
             "set": "dgm",
             "setName": "Dragon's Maze",
             "isFoil": false,
             "collectorNumber": "149",
             "scryfallId": "0248cc88-e95c-4667-82a2-40e881acabc2"
+          },
+          {
+            "qty": 1,
+            "set": "rtr",
+            "setName": "Return to Ravnica",
+            "isFoil": false,
+            "collectorNumber": "239",
+            "scryfallId": "8fe2fd1a-f7d3-48b4-bad8-be5ee45d6121"
           }
         ]
       }
@@ -34344,18 +34344,18 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "hou",
-            "setName": "Hour of Devastation",
-            "isFoil": true,
-            "collectorNumber": "119",
-            "scryfallId": "9ffb676d-54b7-4d30-9c84-ff9b48030705"
-          },
-          {
             "qty": 3,
             "set": "hou",
             "setName": "Hour of Devastation",
             "isFoil": false,
+            "collectorNumber": "119",
+            "scryfallId": "9ffb676d-54b7-4d30-9c84-ff9b48030705"
+          },
+          {
+            "qty": 1,
+            "set": "hou",
+            "setName": "Hour of Devastation",
+            "isFoil": true,
             "collectorNumber": "119",
             "scryfallId": "9ffb676d-54b7-4d30-9c84-ff9b48030705"
           }
@@ -37111,6 +37111,14 @@
         ],
         "Bruno (Sta Fe)": [
           {
+            "qty": 1,
+            "set": "c13",
+            "setName": "Commander 2013",
+            "isFoil": false,
+            "collectorNumber": "297",
+            "scryfallId": "65caef6e-70f9-4841-8c4d-457748d292fa"
+          },
+          {
             "qty": 2,
             "set": "dgm",
             "setName": "Dragon's Maze",
@@ -37125,14 +37133,6 @@
             "isFoil": false,
             "collectorNumber": "242",
             "scryfallId": "6951d84f-2d3c-4203-8d31-e08f4bc707f0"
-          },
-          {
-            "qty": 1,
-            "set": "c13",
-            "setName": "Commander 2013",
-            "isFoil": false,
-            "collectorNumber": "297",
-            "scryfallId": "65caef6e-70f9-4841-8c4d-457748d292fa"
           }
         ]
       }
@@ -37605,20 +37605,20 @@
         ],
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "plst",
-            "setName": "The List",
-            "isFoil": false,
-            "collectorNumber": "ZEN-14",
-            "scryfallId": "13c2e384-68c2-4a99-8d91-0764865be6b6"
-          },
-          {
             "qty": 2,
             "set": "cmd",
             "setName": "Commander 2011",
             "isFoil": false,
             "collectorNumber": "17",
             "scryfallId": "4686b51c-e02b-48c1-bafe-e8d08a5407b9"
+          },
+          {
+            "qty": 1,
+            "set": "plst",
+            "setName": "The List",
+            "isFoil": false,
+            "collectorNumber": "ZEN-14",
+            "scryfallId": "13c2e384-68c2-4a99-8d91-0764865be6b6"
           }
         ]
       }
@@ -43406,18 +43406,18 @@
         ],
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 4,
-            "set": "con",
-            "setName": "Conflux",
-            "isFoil": false,
-            "collectorNumber": "10",
-            "scryfallId": "d9801e68-9a03-491f-be23-f0b830c4a0c5"
-          },
-          {
             "qty": 1,
             "set": "con",
             "setName": "Conflux",
             "isFoil": true,
+            "collectorNumber": "10",
+            "scryfallId": "d9801e68-9a03-491f-be23-f0b830c4a0c5"
+          },
+          {
+            "qty": 4,
+            "set": "con",
+            "setName": "Conflux",
+            "isFoil": false,
             "collectorNumber": "10",
             "scryfallId": "d9801e68-9a03-491f-be23-f0b830c4a0c5"
           }
@@ -44659,20 +44659,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 5,
-            "set": "c14",
-            "setName": "Commander 2014",
-            "isFoil": false,
-            "collectorNumber": "80",
-            "scryfallId": "4399dcc7-7684-4345-9f74-318c3ec9af82"
-          },
-          {
             "qty": 10,
             "set": "isd",
             "setName": "Innistrad",
             "isFoil": false,
             "collectorNumber": "22",
             "scryfallId": "fe1eb098-7128-4ec8-8218-51fdde3e8326"
+          },
+          {
+            "qty": 5,
+            "set": "c14",
+            "setName": "Commander 2014",
+            "isFoil": false,
+            "collectorNumber": "80",
+            "scryfallId": "4399dcc7-7684-4345-9f74-318c3ec9af82"
           }
         ]
       }
@@ -44917,19 +44917,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "4ed",
-            "setName": "Fourth Edition",
-            "isFoil": false,
-            "collectorNumber": "336",
-            "scryfallId": "f16f7d28-1bc2-44b6-973b-c60d966101a6"
-          },
-          {
-            "qty": 1,
             "set": "7ed",
             "setName": "Seventh Edition",
             "isFoil": false,
             "collectorNumber": "308",
             "scryfallId": "1da21381-38bf-49d0-98d3-81eb9c99ce82"
+          },
+          {
+            "qty": 1,
+            "set": "4ed",
+            "setName": "Fourth Edition",
+            "isFoil": false,
+            "collectorNumber": "336",
+            "scryfallId": "f16f7d28-1bc2-44b6-973b-c60d966101a6"
           }
         ]
       }
@@ -45160,18 +45160,18 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "sos",
-            "setName": "Secrets of Strixhaven",
-            "isFoil": false,
-            "collectorNumber": "154",
-            "scryfallId": "2c3a6eb8-ce0c-4dc8-9ed6-d2a9223eef53"
-          },
-          {
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
             "isFoil": true,
+            "collectorNumber": "154",
+            "scryfallId": "2c3a6eb8-ce0c-4dc8-9ed6-d2a9223eef53"
+          },
+          {
+            "qty": 2,
+            "set": "sos",
+            "setName": "Secrets of Strixhaven",
+            "isFoil": false,
             "collectorNumber": "154",
             "scryfallId": "2c3a6eb8-ce0c-4dc8-9ed6-d2a9223eef53"
           }
@@ -49642,18 +49642,18 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "gtc",
-            "setName": "Gatecrash",
-            "isFoil": true,
-            "collectorNumber": "244",
-            "scryfallId": "000d609c-deb7-4bd7-9c1d-e20fb3ed4f5f"
-          },
-          {
             "qty": 3,
             "set": "gtc",
             "setName": "Gatecrash",
             "isFoil": false,
+            "collectorNumber": "244",
+            "scryfallId": "000d609c-deb7-4bd7-9c1d-e20fb3ed4f5f"
+          },
+          {
+            "qty": 1,
+            "set": "gtc",
+            "setName": "Gatecrash",
+            "isFoil": true,
             "collectorNumber": "244",
             "scryfallId": "000d609c-deb7-4bd7-9c1d-e20fb3ed4f5f"
           }
@@ -50376,19 +50376,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "pkld",
-            "setName": "Kaladesh Promos",
-            "isFoil": true,
-            "collectorNumber": "60s",
-            "scryfallId": "9ee9d813-9f7c-4a0e-837e-d3cbc583761f"
-          },
-          {
-            "qty": 1,
             "set": "kld",
             "setName": "Kaladesh",
             "isFoil": true,
             "collectorNumber": "60",
             "scryfallId": "17e50157-bf49-4c5f-9b8a-bf73484e63a5"
+          },
+          {
+            "qty": 1,
+            "set": "pkld",
+            "setName": "Kaladesh Promos",
+            "isFoil": true,
+            "collectorNumber": "60s",
+            "scryfallId": "9ee9d813-9f7c-4a0e-837e-d3cbc583761f"
           }
         ]
       }
@@ -51946,20 +51946,20 @@
         ],
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "mb2",
-            "setName": "Mystery Booster 2",
-            "isFoil": false,
-            "collectorNumber": "34",
-            "scryfallId": "8404f081-2d5f-4433-84cc-77918532eedf"
-          },
-          {
             "qty": 2,
             "set": "m10",
             "setName": "Magic 2010",
             "isFoil": false,
             "collectorNumber": "68",
             "scryfallId": "3c02b8ee-84cb-44cb-ba14-9e725a9d03ee"
+          },
+          {
+            "qty": 1,
+            "set": "mb2",
+            "setName": "Mystery Booster 2",
+            "isFoil": false,
+            "collectorNumber": "34",
+            "scryfallId": "8404f081-2d5f-4433-84cc-77918532eedf"
           }
         ],
         "Bruno (Sta Fe)": [
@@ -54972,20 +54972,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 3,
-            "set": "ori",
-            "setName": "Magic Origins",
-            "isFoil": false,
-            "collectorNumber": "114",
-            "scryfallId": "0cc51b90-7f1e-4e20-bc36-e3a198bc71bf"
-          },
-          {
             "qty": 2,
             "set": "ths",
             "setName": "Theros",
             "isFoil": false,
             "collectorNumber": "101",
             "scryfallId": "dbbdbf1a-2d15-4291-aa19-614f854d8cb3"
+          },
+          {
+            "qty": 3,
+            "set": "ori",
+            "setName": "Magic Origins",
+            "isFoil": false,
+            "collectorNumber": "114",
+            "scryfallId": "0cc51b90-7f1e-4e20-bc36-e3a198bc71bf"
           }
         ]
       }
@@ -55126,6 +55126,14 @@
         ],
         "Bruno (Sta Fe)": [
           {
+            "qty": 2,
+            "set": "ddj",
+            "setName": "Duel Decks: Izzet vs. Golgari",
+            "isFoil": false,
+            "collectorNumber": "50",
+            "scryfallId": "069b92b5-0623-41cc-8e3e-9e694be15186"
+          },
+          {
             "qty": 4,
             "set": "m12",
             "setName": "Magic 2012",
@@ -55140,14 +55148,6 @@
             "isFoil": false,
             "collectorNumber": "112",
             "scryfallId": "a2ec6120-2de0-4166-be85-2d773fa7ebbb"
-          },
-          {
-            "qty": 2,
-            "set": "ddj",
-            "setName": "Duel Decks: Izzet vs. Golgari",
-            "isFoil": false,
-            "collectorNumber": "50",
-            "scryfallId": "069b92b5-0623-41cc-8e3e-9e694be15186"
           }
         ]
       }
@@ -59175,20 +59175,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "kld",
-            "setName": "Kaladesh",
-            "isFoil": false,
-            "collectorNumber": "62",
-            "scryfallId": "42237c1d-5579-4c15-b97b-bcaaaf0b1ab2"
-          },
-          {
             "qty": 7,
             "set": "pkld",
             "setName": "Kaladesh Promos",
             "isFoil": true,
             "collectorNumber": "62",
             "scryfallId": "422e3475-551f-405e-9467-5d244ce698e7"
+          },
+          {
+            "qty": 1,
+            "set": "kld",
+            "setName": "Kaladesh",
+            "isFoil": false,
+            "collectorNumber": "62",
+            "scryfallId": "42237c1d-5579-4c15-b97b-bcaaaf0b1ab2"
           }
         ]
       }
@@ -61458,19 +61458,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "wwk",
-            "setName": "Worldwake",
-            "isFoil": false,
-            "collectorNumber": "130",
-            "scryfallId": "314cb009-bd0e-40eb-98ea-c6dea8d83dcf"
-          },
-          {
-            "qty": 1,
             "set": "c13",
             "setName": "Commander 2013",
             "isFoil": false,
             "collectorNumber": "256",
             "scryfallId": "4f6a4a8c-0b3e-4acf-8345-6ca73f3b675f"
+          },
+          {
+            "qty": 1,
+            "set": "wwk",
+            "setName": "Worldwake",
+            "isFoil": false,
+            "collectorNumber": "130",
+            "scryfallId": "314cb009-bd0e-40eb-98ea-c6dea8d83dcf"
           }
         ]
       }
@@ -61976,20 +61976,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 3,
-            "set": "kld",
-            "setName": "Kaladesh",
-            "isFoil": false,
-            "collectorNumber": "27",
-            "scryfallId": "9aba0c60-78e2-4e1c-a6ad-6f1c001ad7ee"
-          },
-          {
             "qty": 1,
             "set": "f17",
             "setName": "Friday Night Magic 2017",
             "isFoil": true,
             "collectorNumber": "4",
             "scryfallId": "256f0b63-ff50-4b4b-9598-d76c4aa9ee4e"
+          },
+          {
+            "qty": 3,
+            "set": "kld",
+            "setName": "Kaladesh",
+            "isFoil": false,
+            "collectorNumber": "27",
+            "scryfallId": "9aba0c60-78e2-4e1c-a6ad-6f1c001ad7ee"
           }
         ]
       }
@@ -66530,18 +66530,18 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "sos",
-            "setName": "Secrets of Strixhaven",
-            "isFoil": false,
-            "collectorNumber": "262",
-            "scryfallId": "a0a66f7b-eab4-45da-8895-c2c2c7eb05f8"
-          },
-          {
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
             "isFoil": true,
+            "collectorNumber": "262",
+            "scryfallId": "a0a66f7b-eab4-45da-8895-c2c2c7eb05f8"
+          },
+          {
+            "qty": 2,
+            "set": "sos",
+            "setName": "Secrets of Strixhaven",
+            "isFoil": false,
             "collectorNumber": "262",
             "scryfallId": "a0a66f7b-eab4-45da-8895-c2c2c7eb05f8"
           }
@@ -66939,20 +66939,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "c14",
-            "setName": "Commander 2014",
-            "isFoil": false,
-            "collectorNumber": "126",
-            "scryfallId": "1304a4e9-fd62-4b97-b652-b4ebc0f6ebe8"
-          },
-          {
             "qty": 3,
             "set": "zen",
             "setName": "Zendikar",
             "isFoil": false,
             "collectorNumber": "68",
             "scryfallId": "a0d13a9c-8757-46f4-be83-eb9917a5bbe3"
+          },
+          {
+            "qty": 1,
+            "set": "c14",
+            "setName": "Commander 2014",
+            "isFoil": false,
+            "collectorNumber": "126",
+            "scryfallId": "1304a4e9-fd62-4b97-b652-b4ebc0f6ebe8"
           }
         ]
       }
@@ -69757,18 +69757,18 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "sos",
-            "setName": "Secrets of Strixhaven",
-            "isFoil": false,
-            "collectorNumber": "131",
-            "scryfallId": "8de79312-2046-425e-9919-49afe19be81b"
-          },
-          {
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
             "isFoil": true,
+            "collectorNumber": "131",
+            "scryfallId": "8de79312-2046-425e-9919-49afe19be81b"
+          },
+          {
+            "qty": 2,
+            "set": "sos",
+            "setName": "Secrets of Strixhaven",
+            "isFoil": false,
             "collectorNumber": "131",
             "scryfallId": "8de79312-2046-425e-9919-49afe19be81b"
           }
@@ -71910,20 +71910,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 4,
-            "set": "f11",
-            "setName": "Friday Night Magic 2011",
-            "isFoil": true,
-            "collectorNumber": "9",
-            "scryfallId": "ce85799d-f8f1-43d6-b8f5-0759723ebd1a"
-          },
-          {
             "qty": 3,
             "set": "zen",
             "setName": "Zendikar",
             "isFoil": false,
             "collectorNumber": "226",
             "scryfallId": "e56aca36-bb51-45e3-9ef9-9f9f2aa1e088"
+          },
+          {
+            "qty": 4,
+            "set": "f11",
+            "setName": "Friday Night Magic 2011",
+            "isFoil": true,
+            "collectorNumber": "9",
+            "scryfallId": "ce85799d-f8f1-43d6-b8f5-0759723ebd1a"
           }
         ]
       }
@@ -75573,19 +75573,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 2,
-            "set": "m11",
-            "setName": "Magic 2011",
-            "isFoil": false,
-            "collectorNumber": "77",
-            "scryfallId": "99bf943d-497a-4720-8be0-4bc2cd7642ee"
-          },
-          {
-            "qty": 2,
             "set": "ody",
             "setName": "Odyssey",
             "isFoil": false,
             "collectorNumber": "110",
             "scryfallId": "4cad8762-ff91-4971-84be-f643c7795679"
+          },
+          {
+            "qty": 2,
+            "set": "m11",
+            "setName": "Magic 2011",
+            "isFoil": false,
+            "collectorNumber": "77",
+            "scryfallId": "99bf943d-497a-4720-8be0-4bc2cd7642ee"
           }
         ]
       }
@@ -77883,20 +77883,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "m13",
-            "setName": "Magic 2013",
-            "isFoil": false,
-            "collectorNumber": "112",
-            "scryfallId": "9ba96d96-8d9e-47c8-ab39-17479564aadf"
-          },
-          {
             "qty": 3,
             "set": "cmd",
             "setName": "Commander 2011",
             "isFoil": false,
             "collectorNumber": "106",
             "scryfallId": "a3cdec99-2e50-48d8-be9b-648714367222"
+          },
+          {
+            "qty": 2,
+            "set": "m13",
+            "setName": "Magic 2013",
+            "isFoil": false,
+            "collectorNumber": "112",
+            "scryfallId": "9ba96d96-8d9e-47c8-ab39-17479564aadf"
           }
         ]
       }
@@ -78918,18 +78918,18 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "sos",
-            "setName": "Secrets of Strixhaven",
-            "isFoil": false,
-            "collectorNumber": "242",
-            "scryfallId": "846a0e79-a530-429e-8f7f-4b87f1b0156e"
-          },
-          {
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
             "isFoil": true,
+            "collectorNumber": "242",
+            "scryfallId": "846a0e79-a530-429e-8f7f-4b87f1b0156e"
+          },
+          {
+            "qty": 2,
+            "set": "sos",
+            "setName": "Secrets of Strixhaven",
+            "isFoil": false,
             "collectorNumber": "242",
             "scryfallId": "846a0e79-a530-429e-8f7f-4b87f1b0156e"
           }
@@ -80282,19 +80282,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "m10",
-            "setName": "Magic 2010",
-            "isFoil": false,
-            "collectorNumber": "163",
-            "scryfallId": "aa6e1fb5-a06b-4e10-8cc7-785e0f0b298e"
-          },
-          {
-            "qty": 1,
             "set": "10e",
             "setName": "Tenth Edition",
             "isFoil": false,
             "collectorNumber": "248",
             "scryfallId": "c0df0a08-7f62-4b8a-a37d-c778c07076c6"
+          },
+          {
+            "qty": 1,
+            "set": "m10",
+            "setName": "Magic 2010",
+            "isFoil": false,
+            "collectorNumber": "163",
+            "scryfallId": "aa6e1fb5-a06b-4e10-8cc7-785e0f0b298e"
           }
         ]
       }
@@ -86545,20 +86545,20 @@
         ],
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 3,
-            "set": "mm3",
-            "setName": "Modern Masters 2017",
-            "isFoil": false,
-            "collectorNumber": "228",
-            "scryfallId": "a929bfef-7e6d-483d-9605-f4ba7d104656"
-          },
-          {
             "qty": 1,
             "set": "c16",
             "setName": "Commander 2016",
             "isFoil": false,
             "collectorNumber": "281",
             "scryfallId": "d15c35b2-ecec-4b63-afd5-25392bf58486"
+          },
+          {
+            "qty": 3,
+            "set": "mm3",
+            "setName": "Modern Masters 2017",
+            "isFoil": false,
+            "collectorNumber": "228",
+            "scryfallId": "a929bfef-7e6d-483d-9605-f4ba7d104656"
           },
           {
             "qty": 7,
@@ -99200,20 +99200,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "wwk",
-            "setName": "Worldwake",
-            "isFoil": false,
-            "collectorNumber": "76",
-            "scryfallId": "58d8b2c8-7afe-4299-b59b-8cd2cdc8d4cb"
-          },
-          {
             "qty": 2,
             "set": "pwwk",
             "setName": "Worldwake Promos",
             "isFoil": true,
             "collectorNumber": "76★",
             "scryfallId": "14b0011a-f0b4-40c1-85ff-a83f45601cb8"
+          },
+          {
+            "qty": 1,
+            "set": "wwk",
+            "setName": "Worldwake",
+            "isFoil": false,
+            "collectorNumber": "76",
+            "scryfallId": "58d8b2c8-7afe-4299-b59b-8cd2cdc8d4cb"
           }
         ]
       }
@@ -106507,12 +106507,12 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 3,
-            "set": "ptkdf",
-            "setName": "Tarkir Dragonfury",
+            "qty": 2,
+            "set": "ala",
+            "setName": "Shards of Alara",
             "isFoil": false,
-            "collectorNumber": "135",
-            "scryfallId": "47202d15-cb80-496f-84fb-8e3998c3d27b"
+            "collectorNumber": "97",
+            "scryfallId": "9eab4120-e7d8-4132-a304-30b88e3175e2"
           },
           {
             "qty": 2,
@@ -106523,12 +106523,12 @@
             "scryfallId": "b19fc806-f1b7-4f82-be0e-b960699f9a36"
           },
           {
-            "qty": 2,
-            "set": "ala",
-            "setName": "Shards of Alara",
+            "qty": 3,
+            "set": "ptkdf",
+            "setName": "Tarkir Dragonfury",
             "isFoil": false,
-            "collectorNumber": "97",
-            "scryfallId": "9eab4120-e7d8-4132-a304-30b88e3175e2"
+            "collectorNumber": "135",
+            "scryfallId": "47202d15-cb80-496f-84fb-8e3998c3d27b"
           }
         ]
       }
@@ -106755,7 +106755,7 @@
             "qty": 1,
             "set": "m19",
             "setName": "Core Set 2019",
-            "isFoil": false,
+            "isFoil": true,
             "collectorNumber": "232",
             "scryfallId": "5b441fc8-bc89-47d4-8745-2525aeb6d98d"
           },
@@ -106763,7 +106763,7 @@
             "qty": 1,
             "set": "m19",
             "setName": "Core Set 2019",
-            "isFoil": true,
+            "isFoil": false,
             "collectorNumber": "232",
             "scryfallId": "5b441fc8-bc89-47d4-8745-2525aeb6d98d"
           }
@@ -107779,18 +107779,18 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "avr",
-            "setName": "Avacyn Restored",
-            "isFoil": true,
-            "collectorNumber": "175",
-            "scryfallId": "1d8c794a-7964-41f0-bc9c-27af7cf87aaa"
-          },
-          {
             "qty": 3,
             "set": "avr",
             "setName": "Avacyn Restored",
             "isFoil": false,
+            "collectorNumber": "175",
+            "scryfallId": "1d8c794a-7964-41f0-bc9c-27af7cf87aaa"
+          },
+          {
+            "qty": 1,
+            "set": "avr",
+            "setName": "Avacyn Restored",
+            "isFoil": true,
             "collectorNumber": "175",
             "scryfallId": "1d8c794a-7964-41f0-bc9c-27af7cf87aaa"
           }
@@ -112378,20 +112378,20 @@
         ],
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "f13",
-            "setName": "Friday Night Magic 2013",
-            "isFoil": true,
-            "collectorNumber": "3",
-            "scryfallId": "8b4708fb-864a-459c-9126-c9b9c17bd8a9"
-          },
-          {
             "qty": 1,
             "set": "m13",
             "setName": "Magic 2013",
             "isFoil": false,
             "collectorNumber": "170",
             "scryfallId": "f9b69d33-96dd-4844-aefa-27a885cb2ffc"
+          },
+          {
+            "qty": 2,
+            "set": "f13",
+            "setName": "Friday Night Magic 2013",
+            "isFoil": true,
+            "collectorNumber": "3",
+            "scryfallId": "8b4708fb-864a-459c-9126-c9b9c17bd8a9"
           }
         ],
         "Bruno (Sta Fe)": [
@@ -115134,30 +115134,6 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "pelp",
-            "setName": "European Land Program",
-            "isFoil": false,
-            "collectorNumber": "11",
-            "scryfallId": "da9112dd-ee4d-4554-87d4-3421fc6a9101"
-          },
-          {
-            "qty": 4,
-            "set": "inv",
-            "setName": "Invasion",
-            "isFoil": false,
-            "collectorNumber": "349",
-            "scryfallId": "0b741c86-a563-4180-a857-7850de6ee366"
-          },
-          {
-            "qty": 4,
-            "set": "pal01",
-            "setName": "Arena League 2001",
-            "isFoil": true,
-            "collectorNumber": "11",
-            "scryfallId": "a67a595c-50fb-42c8-a15e-6ee40239ca23"
-          },
-          {
             "qty": 1,
             "set": "pal03",
             "setName": "Arena League 2003",
@@ -115174,12 +115150,20 @@
             "scryfallId": "c1629dba-02af-4586-ba59-58faac7cf59b"
           },
           {
-            "qty": 3,
-            "set": "ptk",
-            "setName": "Portal Three Kingdoms",
+            "qty": 4,
+            "set": "inv",
+            "setName": "Invasion",
             "isFoil": false,
-            "collectorNumber": "179",
-            "scryfallId": "c5c94d6c-ed6d-4544-8565-35f1ea8bfc26"
+            "collectorNumber": "349",
+            "scryfallId": "0b741c86-a563-4180-a857-7850de6ee366"
+          },
+          {
+            "qty": 1,
+            "set": "sos",
+            "setName": "Secrets of Strixhaven",
+            "isFoil": true,
+            "collectorNumber": "280",
+            "scryfallId": "f169dfb2-e4c8-46e9-8591-e51bb82da082"
           },
           {
             "qty": 2,
@@ -115191,19 +115175,11 @@
           },
           {
             "qty": 1,
-            "set": "sos",
-            "setName": "Secrets of Strixhaven",
-            "isFoil": true,
-            "collectorNumber": "280",
-            "scryfallId": "f169dfb2-e4c8-46e9-8591-e51bb82da082"
-          },
-          {
-            "qty": 1,
-            "set": "rav",
-            "setName": "Ravnica: City of Guilds",
-            "isFoil": true,
-            "collectorNumber": "303",
-            "scryfallId": "706be1bd-720d-4e74-b71f-568081afcab1"
+            "set": "6ed",
+            "setName": "Classic Sixth Edition",
+            "isFoil": false,
+            "collectorNumber": "349",
+            "scryfallId": "7ade2cdc-9625-427b-92b2-9596ac48904b"
           },
           {
             "qty": 1,
@@ -115215,19 +115191,19 @@
           },
           {
             "qty": 1,
+            "set": "pal06",
+            "setName": "Arena League 2006",
+            "isFoil": false,
+            "collectorNumber": "5",
+            "scryfallId": "e3ac5391-589d-4a16-af53-345b2ac1b163"
+          },
+          {
+            "qty": 1,
             "set": "pal00",
             "setName": "Arena League 2000",
             "isFoil": true,
             "collectorNumber": "12",
             "scryfallId": "17d36674-2598-4df2-b9f3-0224ae08d37d"
-          },
-          {
-            "qty": 1,
-            "set": "6ed",
-            "setName": "Classic Sixth Edition",
-            "isFoil": false,
-            "collectorNumber": "349",
-            "scryfallId": "7ade2cdc-9625-427b-92b2-9596ac48904b"
           },
           {
             "qty": 1,
@@ -115238,12 +115214,36 @@
             "scryfallId": "9c090dcd-0fa4-4f36-8494-98d52f70ffef"
           },
           {
+            "qty": 4,
+            "set": "pal01",
+            "setName": "Arena League 2001",
+            "isFoil": true,
+            "collectorNumber": "11",
+            "scryfallId": "a67a595c-50fb-42c8-a15e-6ee40239ca23"
+          },
+          {
             "qty": 1,
-            "set": "pal06",
-            "setName": "Arena League 2006",
+            "set": "rav",
+            "setName": "Ravnica: City of Guilds",
+            "isFoil": true,
+            "collectorNumber": "303",
+            "scryfallId": "706be1bd-720d-4e74-b71f-568081afcab1"
+          },
+          {
+            "qty": 2,
+            "set": "pelp",
+            "setName": "European Land Program",
             "isFoil": false,
-            "collectorNumber": "5",
-            "scryfallId": "e3ac5391-589d-4a16-af53-345b2ac1b163"
+            "collectorNumber": "1",
+            "scryfallId": "356547d1-f97e-4ef6-ab32-43e4673393ff"
+          },
+          {
+            "qty": 3,
+            "set": "ptk",
+            "setName": "Portal Three Kingdoms",
+            "isFoil": false,
+            "collectorNumber": "178",
+            "scryfallId": "6677baa6-a38f-48f2-9ff2-2e3321b22959"
           }
         ]
       }
@@ -116386,19 +116386,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "ima",
-            "setName": "Iconic Masters",
-            "isFoil": false,
-            "collectorNumber": "130",
-            "scryfallId": "d585cf04-b823-49c1-a33a-9cd8f3116eda"
-          },
-          {
-            "qty": 1,
             "set": "mma",
             "setName": "Modern Masters",
             "isFoil": false,
             "collectorNumber": "114",
             "scryfallId": "ff2a382b-f63a-4520-ab6e-a5428a5e61db"
+          },
+          {
+            "qty": 1,
+            "set": "ima",
+            "setName": "Iconic Masters",
+            "isFoil": false,
+            "collectorNumber": "130",
+            "scryfallId": "d585cf04-b823-49c1-a33a-9cd8f3116eda"
           }
         ]
       }
@@ -127705,19 +127705,19 @@
           },
           {
             "qty": 1,
-            "set": "ltr",
-            "setName": "The Lord of the Rings: Tales of Middle-earth",
-            "isFoil": true,
-            "collectorNumber": "275",
-            "scryfallId": "8fee8302-39ca-43c3-b139-62e591559306"
-          },
-          {
-            "qty": 1,
             "set": "lrw",
             "setName": "Lorwyn",
             "isFoil": true,
             "collectorNumber": "287",
             "scryfallId": "24ffadeb-cf20-4da9-a140-1fdcc7484c7a"
+          },
+          {
+            "qty": 1,
+            "set": "ltr",
+            "setName": "The Lord of the Rings: Tales of Middle-earth",
+            "isFoil": true,
+            "collectorNumber": "275",
+            "scryfallId": "8fee8302-39ca-43c3-b139-62e591559306"
           }
         ],
         "Bruno (Sta Fe)": [
@@ -127728,6 +127728,102 @@
             "isFoil": true,
             "collectorNumber": "274",
             "scryfallId": "77b88bb8-6bd9-4632-b937-89468fcb5e6a"
+          },
+          {
+            "qty": 31,
+            "set": "dd2",
+            "setName": "Duel Decks: Jace vs. Chandra",
+            "isFoil": false,
+            "collectorNumber": "30",
+            "scryfallId": "bed99c19-6452-4258-8369-41d17387062a"
+          },
+          {
+            "qty": 1,
+            "set": "pal00",
+            "setName": "Arena League 2000",
+            "isFoil": true,
+            "collectorNumber": "9",
+            "scryfallId": "c4311e22-d106-456a-9d81-6d6c6fbee9a7"
+          },
+          {
+            "qty": 1,
+            "set": "palp",
+            "setName": "Asia Pacific Land Program",
+            "isFoil": false,
+            "collectorNumber": "12",
+            "scryfallId": "c0360544-7ec7-43a4-8c15-b2471ec0c125"
+          },
+          {
+            "qty": 1,
+            "set": "pal05",
+            "setName": "Arena League 2005",
+            "isFoil": false,
+            "collectorNumber": "2",
+            "scryfallId": "9d8cc4a9-ca3f-4151-80af-a430b835c52c"
+          },
+          {
+            "qty": 1,
+            "set": "tmp",
+            "setName": "Tempest",
+            "isFoil": false,
+            "collectorNumber": "336",
+            "scryfallId": "3f891c3f-82e2-4f9d-ae4b-443fce0bdd71"
+          },
+          {
+            "qty": 1,
+            "set": "pal06",
+            "setName": "Arena League 2006",
+            "isFoil": false,
+            "collectorNumber": "2",
+            "scryfallId": "cfe3a9db-7e66-4848-a4f6-15cff197ecc7"
+          },
+          {
+            "qty": 1,
+            "set": "pal01",
+            "setName": "Arena League 2001",
+            "isFoil": true,
+            "collectorNumber": "3",
+            "scryfallId": "c20fe46c-f358-4974-adfb-86193c4857c1"
+          },
+          {
+            "qty": 3,
+            "set": "ptk",
+            "setName": "Portal Three Kingdoms",
+            "isFoil": false,
+            "collectorNumber": "169",
+            "scryfallId": "76033c90-1e06-473b-ba44-a94e16ac5348"
+          },
+          {
+            "qty": 2,
+            "set": "pelp",
+            "setName": "European Land Program",
+            "isFoil": false,
+            "collectorNumber": "12",
+            "scryfallId": "62e230bc-a6df-4934-9a35-b87790daacae"
+          },
+          {
+            "qty": 5,
+            "set": "ons",
+            "setName": "Onslaught",
+            "isFoil": false,
+            "collectorNumber": "337",
+            "scryfallId": "1dac3bfe-884b-4875-bc7d-df564eb014cd"
+          },
+          {
+            "qty": 1,
+            "set": "pal04",
+            "setName": "Arena League 2004",
+            "isFoil": false,
+            "collectorNumber": "2",
+            "scryfallId": "dd43b070-6a10-44b9-8501-0c2c8ef1f135"
+          },
+          {
+            "qty": 3,
+            "set": "inv",
+            "setName": "Invasion",
+            "isFoil": false,
+            "collectorNumber": "336",
+            "scryfallId": "2fc04e1e-6a14-41cc-9fff-6dcd92cc6a3b"
           },
           {
             "qty": 3,
@@ -127744,102 +127840,6 @@
             "isFoil": false,
             "collectorNumber": "155",
             "scryfallId": "b165ada0-7f52-4047-8596-c54247d13704"
-          },
-          {
-            "qty": 31,
-            "set": "dd2",
-            "setName": "Duel Decks: Jace vs. Chandra",
-            "isFoil": false,
-            "collectorNumber": "30",
-            "scryfallId": "bed99c19-6452-4258-8369-41d17387062a"
-          },
-          {
-            "qty": 1,
-            "set": "pal04",
-            "setName": "Arena League 2004",
-            "isFoil": false,
-            "collectorNumber": "2",
-            "scryfallId": "dd43b070-6a10-44b9-8501-0c2c8ef1f135"
-          },
-          {
-            "qty": 5,
-            "set": "ons",
-            "setName": "Onslaught",
-            "isFoil": false,
-            "collectorNumber": "335",
-            "scryfallId": "36e062ec-df51-40c0-ad8a-2ee1cb8f8f17"
-          },
-          {
-            "qty": 3,
-            "set": "ptk",
-            "setName": "Portal Three Kingdoms",
-            "isFoil": false,
-            "collectorNumber": "170",
-            "scryfallId": "899cfba6-9131-43ef-9e8d-803a0e64d0b0"
-          },
-          {
-            "qty": 2,
-            "set": "pelp",
-            "setName": "European Land Program",
-            "isFoil": false,
-            "collectorNumber": "2",
-            "scryfallId": "aff6f306-4e54-4535-aa35-f7ef058fec49"
-          },
-          {
-            "qty": 1,
-            "set": "palp",
-            "setName": "Asia Pacific Land Program",
-            "isFoil": false,
-            "collectorNumber": "12",
-            "scryfallId": "c0360544-7ec7-43a4-8c15-b2471ec0c125"
-          },
-          {
-            "qty": 1,
-            "set": "pal00",
-            "setName": "Arena League 2000",
-            "isFoil": true,
-            "collectorNumber": "9",
-            "scryfallId": "c4311e22-d106-456a-9d81-6d6c6fbee9a7"
-          },
-          {
-            "qty": 1,
-            "set": "pal05",
-            "setName": "Arena League 2005",
-            "isFoil": false,
-            "collectorNumber": "2",
-            "scryfallId": "9d8cc4a9-ca3f-4151-80af-a430b835c52c"
-          },
-          {
-            "qty": 1,
-            "set": "pal06",
-            "setName": "Arena League 2006",
-            "isFoil": false,
-            "collectorNumber": "2",
-            "scryfallId": "cfe3a9db-7e66-4848-a4f6-15cff197ecc7"
-          },
-          {
-            "qty": 1,
-            "set": "tmp",
-            "setName": "Tempest",
-            "isFoil": false,
-            "collectorNumber": "336",
-            "scryfallId": "3f891c3f-82e2-4f9d-ae4b-443fce0bdd71"
-          },
-          {
-            "qty": 1,
-            "set": "pal01",
-            "setName": "Arena League 2001",
-            "isFoil": true,
-            "collectorNumber": "3",
-            "scryfallId": "c20fe46c-f358-4974-adfb-86193c4857c1"
-          },
-          {
-            "qty": 3,
-            "set": "inv",
-            "setName": "Invasion",
-            "isFoil": false,
-            "collectorNumber": "336",
-            "scryfallId": "2fc04e1e-6a14-41cc-9fff-6dcd92cc6a3b"
           }
         ]
       }
@@ -131427,20 +131427,20 @@
         ],
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "pwar",
-            "setName": "War of the Spark Promos",
-            "isFoil": true,
-            "collectorNumber": "137s",
-            "scryfallId": "de1b2455-6ddf-4b1c-8be5-2767c7957ccb"
-          },
-          {
             "qty": 2,
             "set": "war",
             "setName": "War of the Spark",
             "isFoil": false,
             "collectorNumber": "137",
             "scryfallId": "37ed04d3-cfa1-4778-aea6-b4c2c29e6e0a"
+          },
+          {
+            "qty": 1,
+            "set": "pwar",
+            "setName": "War of the Spark Promos",
+            "isFoil": true,
+            "collectorNumber": "137s",
+            "scryfallId": "de1b2455-6ddf-4b1c-8be5-2767c7957ccb"
           }
         ]
       }
@@ -133994,19 +133994,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "c14",
-            "setName": "Commander 2014",
-            "isFoil": false,
-            "collectorNumber": "117",
-            "scryfallId": "f32bd753-1677-49ef-8717-27276bd44f38"
-          },
-          {
-            "qty": 1,
             "set": "zen",
             "setName": "Zendikar",
             "isFoil": false,
             "collectorNumber": "53",
             "scryfallId": "60ddf68e-e78e-4709-9c7a-c6e8cbb1f56f"
+          },
+          {
+            "qty": 1,
+            "set": "c14",
+            "setName": "Commander 2014",
+            "isFoil": false,
+            "collectorNumber": "117",
+            "scryfallId": "f32bd753-1677-49ef-8717-27276bd44f38"
           }
         ]
       }
@@ -139774,60 +139774,28 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 9,
-            "set": "mmq",
-            "setName": "Mercadian Masques",
-            "isFoil": false,
-            "collectorNumber": "343",
-            "scryfallId": "19b5fff1-7a60-4e50-893a-8177cd62bf82"
-          },
-          {
             "qty": 3,
-            "set": "ptk",
-            "setName": "Portal Three Kingdoms",
+            "set": "p02",
+            "setName": "Portal Second Age",
             "isFoil": false,
-            "collectorNumber": "177",
-            "scryfallId": "00f0ab3f-86c5-49f6-948b-ace35bc03889"
+            "collectorNumber": "161",
+            "scryfallId": "4453a5c0-76f2-422d-8cbc-4b21c17cdf1e"
           },
           {
-            "qty": 4,
-            "set": "ice",
-            "setName": "Ice Age",
+            "qty": 2,
+            "set": "por",
+            "setName": "Portal",
             "isFoil": false,
-            "collectorNumber": "378",
-            "scryfallId": "17ac61e4-b543-4c37-9bfa-43f0c928152d"
+            "collectorNumber": "209",
+            "scryfallId": "b86914cf-0808-4c7c-b364-1539087688bc"
           },
           {
             "qty": 2,
             "set": "ons",
             "setName": "Onslaught",
             "isFoil": false,
-            "collectorNumber": "343",
-            "scryfallId": "05f9bdca-0d54-46c7-b803-9083dfc9ee24"
-          },
-          {
-            "qty": 1,
-            "set": "arn",
-            "setName": "Arabian Nights",
-            "isFoil": false,
-            "collectorNumber": "77",
-            "scryfallId": "c321d0e1-ff30-4424-979b-25e1a33e45d5"
-          },
-          {
-            "qty": 20,
-            "set": "inv",
-            "setName": "Invasion",
-            "isFoil": false,
-            "collectorNumber": "343",
-            "scryfallId": "ba6694bb-f3b7-48ff-9d93-cbed84fac210"
-          },
-          {
-            "qty": 31,
-            "set": "dd2",
-            "setName": "Duel Decks: Jace vs. Chandra",
-            "isFoil": false,
-            "collectorNumber": "59",
-            "scryfallId": "e91e1aae-438b-41df-ad8e-25ba7c9a8f74"
+            "collectorNumber": "346",
+            "scryfallId": "fd194fb1-0d3a-4eff-a446-240d18dad43c"
           },
           {
             "qty": 1,
@@ -139838,20 +139806,12 @@
             "scryfallId": "df355668-ad20-4aa9-b829-cea82aa64ffd"
           },
           {
-            "qty": 1,
-            "set": "pal05",
-            "setName": "Arena League 2005",
+            "qty": 3,
+            "set": "sos",
+            "setName": "Secrets of Strixhaven",
             "isFoil": false,
-            "collectorNumber": "4",
-            "scryfallId": "ba719b3b-c328-4331-945e-a1758e9a51b2"
-          },
-          {
-            "qty": 2,
-            "set": "por",
-            "setName": "Portal",
-            "isFoil": false,
-            "collectorNumber": "208",
-            "scryfallId": "17cf7ce4-d5d7-49f2-a7e4-021d1a2d58c5"
+            "collectorNumber": "279",
+            "scryfallId": "bce45bc0-accd-4853-a166-9dd5597526d5"
           },
           {
             "qty": 1,
@@ -139862,28 +139822,28 @@
             "scryfallId": "88f58cf9-a4ca-4a91-a800-9658b2689581"
           },
           {
-            "qty": 1,
-            "set": "mrd",
-            "setName": "Mirrodin",
-            "isFoil": true,
-            "collectorNumber": "301",
-            "scryfallId": "ba50901e-a030-4f52-8369-f4c9ca6b9c7a"
+            "qty": 9,
+            "set": "mmq",
+            "setName": "Mercadian Masques",
+            "isFoil": false,
+            "collectorNumber": "343",
+            "scryfallId": "19b5fff1-7a60-4e50-893a-8177cd62bf82"
+          },
+          {
+            "qty": 20,
+            "set": "inv",
+            "setName": "Invasion",
+            "isFoil": false,
+            "collectorNumber": "343",
+            "scryfallId": "ba6694bb-f3b7-48ff-9d93-cbed84fac210"
           },
           {
             "qty": 3,
-            "set": "sos",
-            "setName": "Secrets of Strixhaven",
+            "set": "ptk",
+            "setName": "Portal Three Kingdoms",
             "isFoil": false,
-            "collectorNumber": "278",
-            "scryfallId": "a642c7b1-d4d1-4125-a66d-560438e5ee51"
-          },
-          {
-            "qty": 1,
-            "set": "sos",
-            "setName": "Secrets of Strixhaven",
-            "isFoil": true,
-            "collectorNumber": "278",
-            "scryfallId": "a642c7b1-d4d1-4125-a66d-560438e5ee51"
+            "collectorNumber": "177",
+            "scryfallId": "00f0ab3f-86c5-49f6-948b-ace35bc03889"
           },
           {
             "qty": 1,
@@ -139894,12 +139854,36 @@
             "scryfallId": "34a64eda-3db6-4ddb-8004-7b430fab76c4"
           },
           {
-            "qty": 3,
-            "set": "p02",
-            "setName": "Portal Second Age",
+            "qty": 31,
+            "set": "dd2",
+            "setName": "Duel Decks: Jace vs. Chandra",
             "isFoil": false,
-            "collectorNumber": "161",
-            "scryfallId": "4453a5c0-76f2-422d-8cbc-4b21c17cdf1e"
+            "collectorNumber": "59",
+            "scryfallId": "e91e1aae-438b-41df-ad8e-25ba7c9a8f74"
+          },
+          {
+            "qty": 4,
+            "set": "ice",
+            "setName": "Ice Age",
+            "isFoil": false,
+            "collectorNumber": "378",
+            "scryfallId": "17ac61e4-b543-4c37-9bfa-43f0c928152d"
+          },
+          {
+            "qty": 1,
+            "set": "sos",
+            "setName": "Secrets of Strixhaven",
+            "isFoil": true,
+            "collectorNumber": "278",
+            "scryfallId": "a642c7b1-d4d1-4125-a66d-560438e5ee51"
+          },
+          {
+            "qty": 1,
+            "set": "arn",
+            "setName": "Arabian Nights",
+            "isFoil": false,
+            "collectorNumber": "77",
+            "scryfallId": "c321d0e1-ff30-4424-979b-25e1a33e45d5"
           },
           {
             "qty": 11,
@@ -139908,6 +139892,22 @@
             "isFoil": false,
             "collectorNumber": "61",
             "scryfallId": "1d8bc14f-7009-440b-a72c-64e911b13379"
+          },
+          {
+            "qty": 1,
+            "set": "pal05",
+            "setName": "Arena League 2005",
+            "isFoil": false,
+            "collectorNumber": "4",
+            "scryfallId": "ba719b3b-c328-4331-945e-a1758e9a51b2"
+          },
+          {
+            "qty": 1,
+            "set": "mrd",
+            "setName": "Mirrodin",
+            "isFoil": true,
+            "collectorNumber": "301",
+            "scryfallId": "ba50901e-a030-4f52-8369-f4c9ca6b9c7a"
           },
           {
             "qty": 1,
@@ -145651,18 +145651,18 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 7,
-            "set": "ody",
-            "setName": "Odyssey",
-            "isFoil": false,
-            "collectorNumber": "38",
-            "scryfallId": "e216a539-152b-4a83-98ef-1996182a5714"
-          },
-          {
             "qty": 1,
             "set": "ody",
             "setName": "Odyssey",
             "isFoil": true,
+            "collectorNumber": "38",
+            "scryfallId": "e216a539-152b-4a83-98ef-1996182a5714"
+          },
+          {
+            "qty": 7,
+            "set": "ody",
+            "setName": "Odyssey",
+            "isFoil": false,
             "collectorNumber": "38",
             "scryfallId": "e216a539-152b-4a83-98ef-1996182a5714"
           }
@@ -147291,44 +147291,44 @@
         ],
         "Bruno (Sta Fe)": [
           {
+            "qty": 3,
+            "set": "ptk",
+            "setName": "Portal Three Kingdoms",
+            "isFoil": false,
+            "collectorNumber": "168",
+            "scryfallId": "4801e24d-7c45-4d23-9461-0c7771eddd91"
+          },
+          {
+            "qty": 1,
+            "set": "pelp",
+            "setName": "European Land Program",
+            "isFoil": false,
+            "collectorNumber": "4",
+            "scryfallId": "b1b2f459-8878-4008-9c40-46f706d6872a"
+          },
+          {
             "qty": 2,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
             "isFoil": false,
-            "collectorNumber": "273",
-            "scryfallId": "bac08825-ca54-4a9f-bf4f-f75708a1550b"
-          },
-          {
-            "qty": 1,
-            "set": "ody",
-            "setName": "Odyssey",
-            "isFoil": false,
-            "collectorNumber": "334",
-            "scryfallId": "7ee52bef-0586-46b8-a405-f4e0741f0059"
-          },
-          {
-            "qty": 1,
-            "set": "fin",
-            "setName": "Final Fantasy",
-            "isFoil": false,
-            "collectorNumber": "296",
-            "scryfallId": "ee86ac2f-f398-4422-8721-8ac859fbf5bc"
-          },
-          {
-            "qty": 2,
-            "set": "p02",
-            "setName": "Portal Second Age",
-            "isFoil": false,
-            "collectorNumber": "152",
-            "scryfallId": "8a136975-e513-4c50-9d4a-855d03630470"
+            "collectorNumber": "272",
+            "scryfallId": "d85d0f25-a24a-4de0-9b8b-93fb5017bce9"
           },
           {
             "qty": 4,
             "set": "s99",
             "setName": "Starter 1999",
             "isFoil": false,
-            "collectorNumber": "155",
-            "scryfallId": "d6913556-b199-4a77-9c82-ce1b8c63b8f6"
+            "collectorNumber": "157",
+            "scryfallId": "f7700d87-36e0-4ec1-badb-db0149d05f63"
+          },
+          {
+            "qty": 2,
+            "set": "p02",
+            "setName": "Portal Second Age",
+            "isFoil": false,
+            "collectorNumber": "153",
+            "scryfallId": "f67f2ecd-d5fb-406b-b14d-34eb087eb08b"
           },
           {
             "qty": 6,
@@ -147340,51 +147340,11 @@
           },
           {
             "qty": 1,
-            "set": "pmps08",
-            "setName": "Magic Premiere Shop 2008",
-            "isFoil": false,
-            "collectorNumber": "1",
-            "scryfallId": "ffc26409-4f6a-4740-adbf-83550e7ab262"
-          },
-          {
-            "qty": 3,
-            "set": "ptk",
-            "setName": "Portal Three Kingdoms",
-            "isFoil": false,
-            "collectorNumber": "166",
-            "scryfallId": "ed82f466-ee1c-4942-9b4d-a8bffd548b30"
-          },
-          {
-            "qty": 1,
-            "set": "pal06",
-            "setName": "Arena League 2006",
-            "isFoil": false,
-            "collectorNumber": "1",
-            "scryfallId": "06e9f14c-7be0-49ba-bec2-154dbd079cbb"
-          },
-          {
-            "qty": 3,
-            "set": "mmq",
-            "setName": "Mercadian Masques",
-            "isFoil": false,
-            "collectorNumber": "331",
-            "scryfallId": "2edf5042-d185-424e-922d-c0bd4ce3e8b0"
-          },
-          {
-            "qty": 1,
             "set": "pal01",
             "setName": "Arena League 2001",
             "isFoil": true,
             "collectorNumber": "7",
             "scryfallId": "793bfd55-e7ff-46cd-ad29-7997c9fd521a"
-          },
-          {
-            "qty": 1,
-            "set": "pelp",
-            "setName": "European Land Program",
-            "isFoil": false,
-            "collectorNumber": "4",
-            "scryfallId": "b1b2f459-8878-4008-9c40-46f706d6872a"
           },
           {
             "qty": 1,
@@ -147395,12 +147355,52 @@
             "scryfallId": "c160b1e7-8fad-4592-899c-995d09bc8b52"
           },
           {
+            "qty": 1,
+            "set": "pmps08",
+            "setName": "Magic Premiere Shop 2008",
+            "isFoil": false,
+            "collectorNumber": "1",
+            "scryfallId": "ffc26409-4f6a-4740-adbf-83550e7ab262"
+          },
+          {
             "qty": 8,
             "set": "pdgm",
             "setName": "Dragon's Maze Promos",
             "isFoil": true,
             "collectorNumber": "157★",
             "scryfallId": "f4157fbc-76eb-457c-b952-06d3a68ab098"
+          },
+          {
+            "qty": 1,
+            "set": "pal06",
+            "setName": "Arena League 2006",
+            "isFoil": false,
+            "collectorNumber": "1",
+            "scryfallId": "06e9f14c-7be0-49ba-bec2-154dbd079cbb"
+          },
+          {
+            "qty": 1,
+            "set": "ody",
+            "setName": "Odyssey",
+            "isFoil": false,
+            "collectorNumber": "334",
+            "scryfallId": "7ee52bef-0586-46b8-a405-f4e0741f0059"
+          },
+          {
+            "qty": 3,
+            "set": "mmq",
+            "setName": "Mercadian Masques",
+            "isFoil": false,
+            "collectorNumber": "333",
+            "scryfallId": "e3e536cc-e724-43d4-9fe3-dfb4952613cb"
+          },
+          {
+            "qty": 1,
+            "set": "fin",
+            "setName": "Final Fantasy",
+            "isFoil": false,
+            "collectorNumber": "296",
+            "scryfallId": "ee86ac2f-f398-4422-8721-8ac859fbf5bc"
           }
         ]
       }
@@ -149517,19 +149517,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "m11",
-            "setName": "Magic 2011",
-            "isFoil": true,
-            "collectorNumber": "111",
-            "scryfallId": "21d56d13-b9de-44db-b235-4f7eea60f424"
-          },
-          {
-            "qty": 1,
             "set": "m14",
             "setName": "Magic 2014",
             "isFoil": true,
             "collectorNumber": "110",
             "scryfallId": "a759dcd2-ca07-4428-a3ea-b2e829b1fcb4"
+          },
+          {
+            "qty": 1,
+            "set": "m11",
+            "setName": "Magic 2011",
+            "isFoil": true,
+            "collectorNumber": "111",
+            "scryfallId": "21d56d13-b9de-44db-b235-4f7eea60f424"
           }
         ]
       }
@@ -150029,20 +150029,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "pbfz",
-            "setName": "Battle for Zendikar Promos",
-            "isFoil": true,
-            "collectorNumber": "151",
-            "scryfallId": "2548487e-a355-4a05-acbc-3031d98f4289"
-          },
-          {
             "qty": 1,
             "set": "bfz",
             "setName": "Battle for Zendikar",
             "isFoil": false,
             "collectorNumber": "151",
             "scryfallId": "70f4fe69-c541-4320-9074-9c6a3bc70ea3"
+          },
+          {
+            "qty": 2,
+            "set": "pbfz",
+            "setName": "Battle for Zendikar Promos",
+            "isFoil": true,
+            "collectorNumber": "151",
+            "scryfallId": "2548487e-a355-4a05-acbc-3031d98f4289"
           }
         ]
       }
@@ -150251,19 +150251,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "p02",
-            "setName": "Portal Second Age",
-            "isFoil": false,
-            "collectorNumber": "114",
-            "scryfallId": "e6df5a36-7bd4-4456-a462-54f65089826c"
-          },
-          {
-            "qty": 1,
             "set": "m10",
             "setName": "Magic 2010",
             "isFoil": false,
             "collectorNumber": "153",
             "scryfallId": "aa318c3a-70ae-499a-8022-b380f03fd53f"
+          },
+          {
+            "qty": 1,
+            "set": "p02",
+            "setName": "Portal Second Age",
+            "isFoil": false,
+            "collectorNumber": "114",
+            "scryfallId": "e6df5a36-7bd4-4456-a462-54f65089826c"
           }
         ]
       }
@@ -150860,19 +150860,19 @@
         "Manuel Venturini (Sta Fe)": [
           {
             "qty": 1,
-            "set": "hou",
-            "setName": "Hour of Devastation",
-            "isFoil": false,
-            "collectorNumber": "129",
-            "scryfallId": "90a54d18-8403-441d-a115-ee462fabdabb"
-          },
-          {
-            "qty": 1,
             "set": "sld",
             "setName": "Secret Lair Drop",
             "isFoil": true,
             "collectorNumber": "2659",
             "scryfallId": "a6ebb0c9-59d7-4c27-83a5-16dac9a890e6"
+          },
+          {
+            "qty": 1,
+            "set": "hou",
+            "setName": "Hour of Devastation",
+            "isFoil": false,
+            "collectorNumber": "129",
+            "scryfallId": "90a54d18-8403-441d-a115-ee462fabdabb"
           }
         ]
       }
@@ -150926,19 +150926,19 @@
         "Manuel Venturini (Sta Fe)": [
           {
             "qty": 2,
-            "set": "a25",
-            "setName": "Masters 25",
-            "isFoil": false,
-            "collectorNumber": "186",
-            "scryfallId": "8a4d8527-af29-408d-a3a3-6781db0cf439"
-          },
-          {
-            "qty": 2,
             "set": "ulg",
             "setName": "Urza's Legacy",
             "isFoil": false,
             "collectorNumber": "110",
             "scryfallId": "59e256c2-38df-4012-9308-ce17dd889e5f"
+          },
+          {
+            "qty": 2,
+            "set": "a25",
+            "setName": "Masters 25",
+            "isFoil": false,
+            "collectorNumber": "186",
+            "scryfallId": "8a4d8527-af29-408d-a3a3-6781db0cf439"
           }
         ]
       }
@@ -156274,19 +156274,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 2,
-            "set": "plc",
-            "setName": "Planar Chaos",
-            "isFoil": false,
-            "collectorNumber": "15",
-            "scryfallId": "edd1833d-64b0-4c9b-8f6b-1cf15c29d473"
-          },
-          {
-            "qty": 2,
             "set": "ddf",
             "setName": "Duel Decks: Elspeth vs. Tezzeret",
             "isFoil": false,
             "collectorNumber": "30",
             "scryfallId": "3d1ca98e-f016-4831-955d-3f106f109695"
+          },
+          {
+            "qty": 2,
+            "set": "plc",
+            "setName": "Planar Chaos",
+            "isFoil": false,
+            "collectorNumber": "15",
+            "scryfallId": "edd1833d-64b0-4c9b-8f6b-1cf15c29d473"
           }
         ]
       }
@@ -158886,30 +158886,6 @@
             "scryfallId": "e0da3971-0145-4975-8bb1-8c2898d10ae7"
           },
           {
-            "qty": 1,
-            "set": "tor",
-            "setName": "Torment",
-            "isFoil": false,
-            "collectorNumber": "80",
-            "scryfallId": "2308c0c4-7a78-4da8-8dd8-5b35b49a1896"
-          },
-          {
-            "qty": 1,
-            "set": "m15",
-            "setName": "Magic 2015",
-            "isFoil": false,
-            "collectorNumber": "277",
-            "scryfallId": "b3da28be-091d-47f9-b41e-8926cd182a63"
-          },
-          {
-            "qty": 2,
-            "set": "dpa",
-            "setName": "Duels of the Planeswalkers",
-            "isFoil": false,
-            "collectorNumber": "32",
-            "scryfallId": "43b3ddee-980f-45a6-bb15-a0910187007a"
-          },
-          {
             "qty": 3,
             "set": "m14",
             "setName": "Magic 2014",
@@ -158924,6 +158900,30 @@
             "isFoil": true,
             "collectorNumber": "113",
             "scryfallId": "8a78dbdc-1c5a-4b48-8cd1-64f7b4c29dd6"
+          },
+          {
+            "qty": 2,
+            "set": "dpa",
+            "setName": "Duels of the Planeswalkers",
+            "isFoil": false,
+            "collectorNumber": "32",
+            "scryfallId": "43b3ddee-980f-45a6-bb15-a0910187007a"
+          },
+          {
+            "qty": 1,
+            "set": "tor",
+            "setName": "Torment",
+            "isFoil": false,
+            "collectorNumber": "80",
+            "scryfallId": "2308c0c4-7a78-4da8-8dd8-5b35b49a1896"
+          },
+          {
+            "qty": 1,
+            "set": "m15",
+            "setName": "Magic 2015",
+            "isFoil": false,
+            "collectorNumber": "277",
+            "scryfallId": "b3da28be-091d-47f9-b41e-8926cd182a63"
           }
         ]
       }
@@ -159380,6 +159380,14 @@
             "scryfallId": "9895dbaf-2a5e-472b-a605-d3d8075eb927"
           },
           {
+            "qty": 2,
+            "set": "c15",
+            "setName": "Commander 2015",
+            "isFoil": false,
+            "collectorNumber": "136",
+            "scryfallId": "4dedd68c-9d5f-4265-9891-23ef9745ce09"
+          },
+          {
             "qty": 8,
             "set": "isd",
             "setName": "Innistrad",
@@ -159394,14 +159402,6 @@
             "isFoil": true,
             "collectorNumber": "115",
             "scryfallId": "5c6da820-dfb9-4b61-aff8-56dfc9f4894e"
-          },
-          {
-            "qty": 2,
-            "set": "c15",
-            "setName": "Commander 2015",
-            "isFoil": false,
-            "collectorNumber": "136",
-            "scryfallId": "4dedd68c-9d5f-4265-9891-23ef9745ce09"
           },
           {
             "qty": 1,
@@ -168496,20 +168496,20 @@
             "scryfallId": "46144ca5-aa81-4314-a1e5-1716f8565d70"
           },
           {
-            "qty": 2,
-            "set": "mm2",
-            "setName": "Modern Masters 2015",
-            "isFoil": false,
-            "collectorNumber": "34",
-            "scryfallId": "40f0f671-8597-4c40-b9ca-7c6bfe2983c1"
-          },
-          {
             "qty": 1,
             "set": "ddf",
             "setName": "Duel Decks: Elspeth vs. Tezzeret",
             "isFoil": false,
             "collectorNumber": "21",
             "scryfallId": "c5bd2635-37dc-44be-84d9-2f117ae113ea"
+          },
+          {
+            "qty": 2,
+            "set": "mm2",
+            "setName": "Modern Masters 2015",
+            "isFoil": false,
+            "collectorNumber": "34",
+            "scryfallId": "40f0f671-8597-4c40-b9ca-7c6bfe2983c1"
           }
         ]
       }
@@ -169137,76 +169137,12 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 3,
-            "set": "por",
-            "setName": "Portal",
-            "isFoil": false,
-            "collectorNumber": "205",
-            "scryfallId": "dd6c1c8d-dd83-4dbe-b022-495edd1a909f"
-          },
-          {
-            "qty": 3,
-            "set": "p02",
-            "setName": "Portal Second Age",
-            "isFoil": false,
-            "collectorNumber": "159",
-            "scryfallId": "c103ed69-b73b-4789-a28d-1fd071bc9029"
-          },
-          {
             "qty": 2,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
             "isFoil": false,
             "collectorNumber": "269",
             "scryfallId": "1797d5c7-d3fa-4184-85ae-46db14ddf523"
-          },
-          {
-            "qty": 1,
-            "set": "sos",
-            "setName": "Secrets of Strixhaven",
-            "isFoil": true,
-            "collectorNumber": "269",
-            "scryfallId": "1797d5c7-d3fa-4184-85ae-46db14ddf523"
-          },
-          {
-            "qty": 1,
-            "set": "ons",
-            "setName": "Onslaught",
-            "isFoil": false,
-            "collectorNumber": "341",
-            "scryfallId": "7aa97b25-1ea0-4351-ab9f-f06c8bb4d044"
-          },
-          {
-            "qty": 1,
-            "set": "pelp",
-            "setName": "European Land Program",
-            "isFoil": false,
-            "collectorNumber": "5",
-            "scryfallId": "12230b2f-06f6-4c9f-93e4-ed9755d88979"
-          },
-          {
-            "qty": 3,
-            "set": "ptk",
-            "setName": "Portal Three Kingdoms",
-            "isFoil": false,
-            "collectorNumber": "172",
-            "scryfallId": "17b4a8a4-caa8-472d-bf90-ee70250bc0ab"
-          },
-          {
-            "qty": 1,
-            "set": "chk",
-            "setName": "Champions of Kamigawa",
-            "isFoil": true,
-            "collectorNumber": "296",
-            "scryfallId": "f88a6fa7-58e7-459c-8e2e-be5a4692450b"
-          },
-          {
-            "qty": 1,
-            "set": "pal06",
-            "setName": "Arena League 2006",
-            "isFoil": false,
-            "collectorNumber": "3",
-            "scryfallId": "ddb1c96c-3d3b-42a7-b40d-61c50a7e27d5"
           },
           {
             "qty": 1,
@@ -169218,19 +169154,43 @@
           },
           {
             "qty": 1,
-            "set": "rav",
-            "setName": "Ravnica: City of Guilds",
-            "isFoil": false,
-            "collectorNumber": "295",
-            "scryfallId": "2755f9f7-95f9-4907-8ec9-21853eb376f4"
+            "set": "sos",
+            "setName": "Secrets of Strixhaven",
+            "isFoil": true,
+            "collectorNumber": "269",
+            "scryfallId": "1797d5c7-d3fa-4184-85ae-46db14ddf523"
           },
           {
             "qty": 1,
-            "set": "mir",
-            "setName": "Mirage",
+            "set": "mmq",
+            "setName": "Mercadian Masques",
             "isFoil": false,
             "collectorNumber": "340",
-            "scryfallId": "2c4be2d6-d168-4e67-8d75-a04f637b56dd"
+            "scryfallId": "c2436ceb-05c0-40e6-b370-a6f02f4adbe4"
+          },
+          {
+            "qty": 3,
+            "set": "por",
+            "setName": "Portal",
+            "isFoil": false,
+            "collectorNumber": "207",
+            "scryfallId": "5fd26e01-cbd2-4787-bc01-aff58c13840f"
+          },
+          {
+            "qty": 1,
+            "set": "pal06",
+            "setName": "Arena League 2006",
+            "isFoil": false,
+            "collectorNumber": "3",
+            "scryfallId": "ddb1c96c-3d3b-42a7-b40d-61c50a7e27d5"
+          },
+          {
+            "qty": 1,
+            "set": "chk",
+            "setName": "Champions of Kamigawa",
+            "isFoil": true,
+            "collectorNumber": "296",
+            "scryfallId": "f88a6fa7-58e7-459c-8e2e-be5a4692450b"
           },
           {
             "qty": 1,
@@ -169242,11 +169202,51 @@
           },
           {
             "qty": 1,
-            "set": "mmq",
-            "setName": "Mercadian Masques",
+            "set": "mir",
+            "setName": "Mirage",
             "isFoil": false,
             "collectorNumber": "340",
-            "scryfallId": "c2436ceb-05c0-40e6-b370-a6f02f4adbe4"
+            "scryfallId": "2c4be2d6-d168-4e67-8d75-a04f637b56dd"
+          },
+          {
+            "qty": 3,
+            "set": "ptk",
+            "setName": "Portal Three Kingdoms",
+            "isFoil": false,
+            "collectorNumber": "173",
+            "scryfallId": "9fc74272-8dc7-4a07-85e3-e7a13573345e"
+          },
+          {
+            "qty": 1,
+            "set": "pelp",
+            "setName": "European Land Program",
+            "isFoil": false,
+            "collectorNumber": "5",
+            "scryfallId": "12230b2f-06f6-4c9f-93e4-ed9755d88979"
+          },
+          {
+            "qty": 1,
+            "set": "rav",
+            "setName": "Ravnica: City of Guilds",
+            "isFoil": false,
+            "collectorNumber": "295",
+            "scryfallId": "2755f9f7-95f9-4907-8ec9-21853eb376f4"
+          },
+          {
+            "qty": 3,
+            "set": "p02",
+            "setName": "Portal Second Age",
+            "isFoil": false,
+            "collectorNumber": "158",
+            "scryfallId": "adb62dd9-266b-4de9-8a11-3228b5f1e03a"
+          },
+          {
+            "qty": 1,
+            "set": "ons",
+            "setName": "Onslaught",
+            "isFoil": false,
+            "collectorNumber": "341",
+            "scryfallId": "7aa97b25-1ea0-4351-ab9f-f06c8bb4d044"
           }
         ]
       }
@@ -174315,20 +174315,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "dci",
-            "setName": "DCI Promos",
-            "isFoil": true,
-            "collectorNumber": "76",
-            "scryfallId": "ceb5d4c4-d6b5-4d28-8ed7-e367c6201f24"
-          },
-          {
             "qty": 15,
             "set": "m12",
             "setName": "Magic 2012",
             "isFoil": false,
             "collectorNumber": "114",
             "scryfallId": "d2699c42-99bb-4b5a-82ec-9c6424c14ec1"
+          },
+          {
+            "qty": 2,
+            "set": "dci",
+            "setName": "DCI Promos",
+            "isFoil": true,
+            "collectorNumber": "76",
+            "scryfallId": "ceb5d4c4-d6b5-4d28-8ed7-e367c6201f24"
           }
         ]
       }
@@ -185180,20 +185180,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "ogw",
-            "setName": "Oath of the Gatewatch",
-            "isFoil": false,
-            "collectorNumber": "3",
-            "scryfallId": "6bba7509-db77-414f-926f-1f28a4117831"
-          },
-          {
             "qty": 10,
             "set": "pogw",
             "setName": "Oath of the Gatewatch Promos",
             "isFoil": true,
             "collectorNumber": "3",
             "scryfallId": "103cee09-5938-4a5b-bfd6-78f0e57826c8"
+          },
+          {
+            "qty": 2,
+            "set": "ogw",
+            "setName": "Oath of the Gatewatch",
+            "isFoil": false,
+            "collectorNumber": "3",
+            "scryfallId": "6bba7509-db77-414f-926f-1f28a4117831"
           }
         ]
       }
@@ -185673,20 +185673,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 4,
-            "set": "rtr",
-            "setName": "Return to Ravnica",
-            "isFoil": false,
-            "collectorNumber": "212",
-            "scryfallId": "8ffd77d7-3fe6-4493-96eb-f62183c0358d"
-          },
-          {
             "qty": 2,
             "set": "prtr",
             "setName": "Return to Ravnica Promos",
             "isFoil": true,
             "collectorNumber": "212",
             "scryfallId": "d0b9097b-e2c8-4d9f-abb3-1cb410888988"
+          },
+          {
+            "qty": 4,
+            "set": "rtr",
+            "setName": "Return to Ravnica",
+            "isFoil": false,
+            "collectorNumber": "212",
+            "scryfallId": "8ffd77d7-3fe6-4493-96eb-f62183c0358d"
           }
         ]
       }
@@ -186014,20 +186014,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 5,
-            "set": "bfz",
-            "setName": "Battle for Zendikar",
-            "isFoil": false,
-            "collectorNumber": "203",
-            "scryfallId": "b080ed31-db68-4e3c-8bf6-48b53d3ba622"
-          },
-          {
             "qty": 1,
             "set": "pbfz",
             "setName": "Battle for Zendikar Promos",
             "isFoil": true,
             "collectorNumber": "203s",
             "scryfallId": "89923289-0f62-444e-a781-d9948f32eedd"
+          },
+          {
+            "qty": 5,
+            "set": "bfz",
+            "setName": "Battle for Zendikar",
+            "isFoil": false,
+            "collectorNumber": "203",
+            "scryfallId": "b080ed31-db68-4e3c-8bf6-48b53d3ba622"
           }
         ]
       }
@@ -186187,18 +186187,18 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "emn",
-            "setName": "Eldritch Moon",
-            "isFoil": false,
-            "collectorNumber": "51",
-            "scryfallId": "740ad768-2be0-4e5a-9d60-6c7ec4bdc107"
-          },
-          {
             "qty": 1,
             "set": "emn",
             "setName": "Eldritch Moon",
             "isFoil": true,
+            "collectorNumber": "51",
+            "scryfallId": "740ad768-2be0-4e5a-9d60-6c7ec4bdc107"
+          },
+          {
+            "qty": 2,
+            "set": "emn",
+            "setName": "Eldritch Moon",
+            "isFoil": false,
             "collectorNumber": "51",
             "scryfallId": "740ad768-2be0-4e5a-9d60-6c7ec4bdc107"
           }
@@ -186490,20 +186490,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "pkld",
-            "setName": "Kaladesh Promos",
-            "isFoil": true,
-            "collectorNumber": "204s",
-            "scryfallId": "245610ce-0733-4acd-904b-2912dc480b81"
-          },
-          {
             "qty": 3,
             "set": "kld",
             "setName": "Kaladesh",
             "isFoil": false,
             "collectorNumber": "204",
             "scryfallId": "f956dedc-2cf4-4039-8302-feab94b78426"
+          },
+          {
+            "qty": 1,
+            "set": "pkld",
+            "setName": "Kaladesh Promos",
+            "isFoil": true,
+            "collectorNumber": "204s",
+            "scryfallId": "245610ce-0733-4acd-904b-2912dc480b81"
           }
         ]
       }
@@ -186753,20 +186753,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "m13",
-            "setName": "Magic 2013",
-            "isFoil": false,
-            "collectorNumber": "118",
-            "scryfallId": "e07524e0-303d-465d-b112-ca605b9b27fc"
-          },
-          {
             "qty": 5,
             "set": "pm13",
             "setName": "Magic 2013 Promos",
             "isFoil": true,
             "collectorNumber": "118★",
             "scryfallId": "abfeac83-84ef-41ab-b6ee-cc2bab6aa06d"
+          },
+          {
+            "qty": 1,
+            "set": "m13",
+            "setName": "Magic 2013",
+            "isFoil": false,
+            "collectorNumber": "118",
+            "scryfallId": "e07524e0-303d-465d-b112-ca605b9b27fc"
           }
         ]
       }
@@ -187274,7 +187274,7 @@
             "qty": 1,
             "set": "ogw",
             "setName": "Oath of the Gatewatch",
-            "isFoil": false,
+            "isFoil": true,
             "collectorNumber": "68",
             "scryfallId": "e2b26769-4705-4b09-94b4-1063e67041d1"
           },
@@ -187282,7 +187282,7 @@
             "qty": 1,
             "set": "ogw",
             "setName": "Oath of the Gatewatch",
-            "isFoil": true,
+            "isFoil": false,
             "collectorNumber": "68",
             "scryfallId": "e2b26769-4705-4b09-94b4-1063e67041d1"
           }
@@ -187597,7 +187597,7 @@
             "qty": 1,
             "set": "ktk",
             "setName": "Khans of Tarkir",
-            "isFoil": true,
+            "isFoil": false,
             "collectorNumber": "182",
             "scryfallId": "e7fbca8d-34a3-4df1-986a-36fca142a758"
           },
@@ -187605,7 +187605,7 @@
             "qty": 1,
             "set": "ktk",
             "setName": "Khans of Tarkir",
-            "isFoil": false,
+            "isFoil": true,
             "collectorNumber": "182",
             "scryfallId": "e7fbca8d-34a3-4df1-986a-36fca142a758"
           }
@@ -193885,7 +193885,7 @@
             "qty": 1,
             "set": "acr",
             "setName": "Assassin's Creed",
-            "isFoil": false,
+            "isFoil": true,
             "collectorNumber": "90",
             "scryfallId": "e6949e85-2db2-43a7-93bd-485c7b196298"
           },
@@ -193893,7 +193893,7 @@
             "qty": 1,
             "set": "acr",
             "setName": "Assassin's Creed",
-            "isFoil": true,
+            "isFoil": false,
             "collectorNumber": "90",
             "scryfallId": "e6949e85-2db2-43a7-93bd-485c7b196298"
           }
@@ -196077,19 +196077,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "pfrf",
-            "setName": "Fate Reforged Promos",
-            "isFoil": true,
-            "collectorNumber": "100s",
-            "scryfallId": "49487487-2c8d-4684-87dc-66b88a74bb64"
-          },
-          {
-            "qty": 1,
             "set": "frf",
             "setName": "Fate Reforged",
             "isFoil": false,
             "collectorNumber": "100",
             "scryfallId": "fefd5848-9fe1-4129-a5d7-e51606bf76ef"
+          },
+          {
+            "qty": 1,
+            "set": "pfrf",
+            "setName": "Fate Reforged Promos",
+            "isFoil": true,
+            "collectorNumber": "100s",
+            "scryfallId": "49487487-2c8d-4684-87dc-66b88a74bb64"
           }
         ]
       }
@@ -201807,17 +201807,17 @@
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
-            "isFoil": true,
-            "collectorNumber": "123",
-            "scryfallId": "4d611278-9948-4345-b4dd-aa6eaf21b233"
+            "isFoil": false,
+            "collectorNumber": "295",
+            "scryfallId": "30f2d6a5-1e21-4d12-bd51-6e40683b0e72"
           },
           {
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
-            "isFoil": false,
-            "collectorNumber": "295",
-            "scryfallId": "30f2d6a5-1e21-4d12-bd51-6e40683b0e72"
+            "isFoil": true,
+            "collectorNumber": "123",
+            "scryfallId": "4d611278-9948-4345-b4dd-aa6eaf21b233"
           }
         ]
       }
@@ -204035,22 +204035,6 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "c14",
-            "setName": "Commander 2014",
-            "isFoil": false,
-            "collectorNumber": "261",
-            "scryfallId": "bdb9d0b3-3cf8-4bb0-a272-d4ef3110d86f"
-          },
-          {
-            "qty": 2,
-            "set": "ddf",
-            "setName": "Duel Decks: Elspeth vs. Tezzeret",
-            "isFoil": false,
-            "collectorNumber": "58",
-            "scryfallId": "90450177-4ed6-41e6-9917-70a0720bb84c"
-          },
-          {
             "qty": 4,
             "set": "mrd",
             "setName": "Mirrodin",
@@ -204065,6 +204049,22 @@
             "isFoil": false,
             "collectorNumber": "213",
             "scryfallId": "eb10af81-8ff3-4063-a67a-b760fdba95f8"
+          },
+          {
+            "qty": 2,
+            "set": "ddf",
+            "setName": "Duel Decks: Elspeth vs. Tezzeret",
+            "isFoil": false,
+            "collectorNumber": "58",
+            "scryfallId": "90450177-4ed6-41e6-9917-70a0720bb84c"
+          },
+          {
+            "qty": 1,
+            "set": "c14",
+            "setName": "Commander 2014",
+            "isFoil": false,
+            "collectorNumber": "261",
+            "scryfallId": "bdb9d0b3-3cf8-4bb0-a272-d4ef3110d86f"
           }
         ]
       }
@@ -204489,20 +204489,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "bfz",
-            "setName": "Battle for Zendikar",
-            "isFoil": false,
-            "collectorNumber": "215",
-            "scryfallId": "d8ee09fe-46d7-492b-a2f3-3fb0c3f83f07"
-          },
-          {
             "qty": 1,
             "set": "pbfz",
             "setName": "Battle for Zendikar Promos",
             "isFoil": true,
             "collectorNumber": "215s",
             "scryfallId": "863af3aa-8127-48c2-bb2a-386efeb904bb"
+          },
+          {
+            "qty": 2,
+            "set": "bfz",
+            "setName": "Battle for Zendikar",
+            "isFoil": false,
+            "collectorNumber": "215",
+            "scryfallId": "d8ee09fe-46d7-492b-a2f3-3fb0c3f83f07"
           }
         ]
       }
@@ -204938,11 +204938,11 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "kld",
-            "setName": "Kaladesh",
+            "set": "pkld",
+            "setName": "Kaladesh Promos",
             "isFoil": true,
-            "collectorNumber": "136",
-            "scryfallId": "b3525ad1-3c17-4959-ab61-ae0e784c526a"
+            "collectorNumber": "136s",
+            "scryfallId": "eb895f4d-8d3a-450a-9611-c5704decd444"
           },
           {
             "qty": 3,
@@ -204954,11 +204954,11 @@
           },
           {
             "qty": 1,
-            "set": "pkld",
-            "setName": "Kaladesh Promos",
+            "set": "kld",
+            "setName": "Kaladesh",
             "isFoil": true,
-            "collectorNumber": "136s",
-            "scryfallId": "eb895f4d-8d3a-450a-9611-c5704decd444"
+            "collectorNumber": "136",
+            "scryfallId": "b3525ad1-3c17-4959-ab61-ae0e784c526a"
           }
         ]
       }
@@ -206576,7 +206576,7 @@
             "qty": 1,
             "set": "xln",
             "setName": "Ixalan",
-            "isFoil": false,
+            "isFoil": true,
             "collectorNumber": "227",
             "scryfallId": "d6a322c5-aa4c-4a99-a3ca-48c1353104f0"
           },
@@ -206584,7 +206584,7 @@
             "qty": 1,
             "set": "xln",
             "setName": "Ixalan",
-            "isFoil": true,
+            "isFoil": false,
             "collectorNumber": "227",
             "scryfallId": "d6a322c5-aa4c-4a99-a3ca-48c1353104f0"
           }
@@ -209581,7 +209581,7 @@
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
-            "isFoil": true,
+            "isFoil": false,
             "collectorNumber": "227",
             "scryfallId": "73d06987-8686-461b-b260-9a4fee6a3b32"
           },
@@ -209589,7 +209589,7 @@
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
-            "isFoil": false,
+            "isFoil": true,
             "collectorNumber": "227",
             "scryfallId": "73d06987-8686-461b-b260-9a4fee6a3b32"
           }
@@ -209804,7 +209804,7 @@
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
-            "isFoil": true,
+            "isFoil": false,
             "collectorNumber": "22",
             "scryfallId": "0534cff6-299c-4155-b318-eb7581989e8a"
           },
@@ -209812,7 +209812,7 @@
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
-            "isFoil": false,
+            "isFoil": true,
             "collectorNumber": "22",
             "scryfallId": "0534cff6-299c-4155-b318-eb7581989e8a"
           }
@@ -210267,28 +210267,28 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 3,
-            "set": "m11",
-            "setName": "Magic 2011",
-            "isFoil": false,
-            "collectorNumber": "146",
-            "scryfallId": "f1e4a028-6462-4373-9864-a8adfc78d52b"
-          },
-          {
-            "qty": 1,
-            "set": "m12",
-            "setName": "Magic 2012",
-            "isFoil": false,
-            "collectorNumber": "147",
-            "scryfallId": "e04c24cb-3c3b-4a35-9694-db512bf394fa"
-          },
-          {
             "qty": 1,
             "set": "m12",
             "setName": "Magic 2012",
             "isFoil": true,
             "collectorNumber": "147",
             "scryfallId": "e04c24cb-3c3b-4a35-9694-db512bf394fa"
+          },
+          {
+            "qty": 1,
+            "set": "m12",
+            "setName": "Magic 2012",
+            "isFoil": false,
+            "collectorNumber": "147",
+            "scryfallId": "e04c24cb-3c3b-4a35-9694-db512bf394fa"
+          },
+          {
+            "qty": 3,
+            "set": "m11",
+            "setName": "Magic 2011",
+            "isFoil": false,
+            "collectorNumber": "146",
+            "scryfallId": "f1e4a028-6462-4373-9864-a8adfc78d52b"
           }
         ]
       }
@@ -210616,20 +210616,20 @@
             "scryfallId": "513a2a6f-9ae6-42cb-b75f-6b45fc35f36e"
           },
           {
-            "qty": 2,
-            "set": "p06",
-            "setName": "Magic Player Rewards 2006",
-            "isFoil": false,
-            "collectorNumber": "6",
-            "scryfallId": "0c6d4039-dc57-4c89-b02c-2f3147292127"
-          },
-          {
             "qty": 1,
             "set": "soa",
             "setName": "Secrets of Strixhaven Mystical Archive",
             "isFoil": false,
             "collectorNumber": "36",
             "scryfallId": "dfec5854-70c7-4e4b-9979-58775dd7a181"
+          },
+          {
+            "qty": 2,
+            "set": "p06",
+            "setName": "Magic Player Rewards 2006",
+            "isFoil": false,
+            "collectorNumber": "6",
+            "scryfallId": "0c6d4039-dc57-4c89-b02c-2f3147292127"
           }
         ]
       }
@@ -212379,45 +212379,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 5,
-            "set": "f12",
-            "setName": "Friday Night Magic 2012",
-            "isFoil": true,
-            "collectorNumber": "11",
-            "scryfallId": "c39677b8-9a43-4e62-a83a-4a9d6372310b"
-          },
-          {
             "qty": 1,
             "set": "avr",
             "setName": "Avacyn Restored",
             "isFoil": true,
             "collectorNumber": "149",
             "scryfallId": "c983e879-d9d2-47cc-9958-506711ca80cd"
-          }
-        ]
-      }
-    },
-    "hammer of bogardan": {
-      "name": "Hammer of Bogardan",
-      "owners": {
-        "Lucho": [
+          },
           {
-            "qty": 3,
-            "set": "8ed",
-            "setName": "Eighth Edition",
-            "isFoil": false,
-            "collectorNumber": "193",
-            "scryfallId": "abf6e6c0-ddea-4d15-ab1a-5c7d9fa69d51"
-          }
-        ],
-        "Bruno (Sta Fe)": [
-          {
-            "qty": 1,
-            "set": "mir",
-            "setName": "Mirage",
-            "isFoil": false,
-            "collectorNumber": "181",
-            "scryfallId": "f7285f52-5df0-4f90-9cf7-a57295d90fd4"
+            "qty": 5,
+            "set": "f12",
+            "setName": "Friday Night Magic 2012",
+            "isFoil": true,
+            "collectorNumber": "11",
+            "scryfallId": "c39677b8-9a43-4e62-a83a-4a9d6372310b"
           }
         ]
       }
@@ -212507,36 +212482,6 @@
         ]
       }
     },
-    "ogre menial": {
-      "name": "Ogre Menial",
-      "owners": {
-        "Lucho": [
-          {
-            "qty": 2,
-            "set": "nph",
-            "setName": "New Phyrexia",
-            "isFoil": false,
-            "collectorNumber": "89",
-            "scryfallId": "6271c5c1-5f39-4908-b838-0f34c74e912e"
-          }
-        ]
-      }
-    },
-    "scrapyard salvo": {
-      "name": "Scrapyard Salvo",
-      "owners": {
-        "Lucho": [
-          {
-            "qty": 3,
-            "set": "nph",
-            "setName": "New Phyrexia",
-            "isFoil": false,
-            "collectorNumber": "94",
-            "scryfallId": "3a4874eb-635b-47f0-bbee-6bd8b26e2f10"
-          }
-        ]
-      }
-    },
     "zurzoth, chaos rider": {
       "name": "Zurzoth, Chaos Rider",
       "owners": {
@@ -212552,36 +212497,6 @@
         ]
       }
     },
-    "drannith stinger": {
-      "name": "Drannith Stinger",
-      "owners": {
-        "Lucho": [
-          {
-            "qty": 4,
-            "set": "iko",
-            "setName": "Ikoria: Lair of Behemoths",
-            "isFoil": false,
-            "collectorNumber": "113",
-            "scryfallId": "612ee4be-e7a2-423c-a37c-7c6ca97f630e"
-          }
-        ]
-      }
-    },
-    "footfall crater": {
-      "name": "Footfall Crater",
-      "owners": {
-        "Lucho": [
-          {
-            "qty": 3,
-            "set": "iko",
-            "setName": "Ikoria: Lair of Behemoths",
-            "isFoil": false,
-            "collectorNumber": "118",
-            "scryfallId": "f1b75aac-54e3-4181-bac5-5a142757ec05"
-          }
-        ]
-      }
-    },
     "forbidden friendship": {
       "name": "Forbidden Friendship",
       "owners": {
@@ -212593,21 +212508,6 @@
             "isFoil": false,
             "collectorNumber": "119",
             "scryfallId": "e634baa3-2cdd-412a-9407-c347fe46f9b8"
-          }
-        ]
-      }
-    },
-    "go for blood": {
-      "name": "Go for Blood",
-      "owners": {
-        "Lucho": [
-          {
-            "qty": 3,
-            "set": "iko",
-            "setName": "Ikoria: Lair of Behemoths",
-            "isFoil": false,
-            "collectorNumber": "122",
-            "scryfallId": "67315df9-99a1-45ba-8ade-ddc476368a86"
           }
         ]
       }
@@ -212902,21 +212802,6 @@
         ]
       }
     },
-    "voltage surge": {
-      "name": "Voltage Surge",
-      "owners": {
-        "Lucho": [
-          {
-            "qty": 2,
-            "set": "neo",
-            "setName": "Kamigawa: Neon Dynasty",
-            "isFoil": false,
-            "collectorNumber": "171",
-            "scryfallId": "5a9b7141-45b9-4629-a4e4-b50f93929717"
-          }
-        ]
-      }
-    },
     "tavern brawler": {
       "name": "Tavern Brawler",
       "owners": {
@@ -212938,21 +212823,6 @@
             "isFoil": false,
             "collectorNumber": "200",
             "scryfallId": "b07f8fc3-83a5-4e0a-b87f-ce415292c790"
-          }
-        ]
-      }
-    },
-    "obliterating bolt": {
-      "name": "Obliterating Bolt",
-      "owners": {
-        "Lucho": [
-          {
-            "qty": 2,
-            "set": "fdn",
-            "setName": "Foundations",
-            "isFoil": false,
-            "collectorNumber": "629",
-            "scryfallId": "d59e836b-1c7b-43ac-889b-5f94e1638c42"
           }
         ]
       }
@@ -213217,21 +213087,6 @@
         ]
       }
     },
-    "painter's studio // defaced gallery": {
-      "name": "Painter's Studio // Defaced Gallery",
-      "owners": {
-        "Lucho": [
-          {
-            "qty": 2,
-            "set": "dsk",
-            "setName": "Duskmourn: House of Horror",
-            "isFoil": false,
-            "collectorNumber": "147",
-            "scryfallId": "e96901eb-5b57-43f4-a7b1-ae3b809bc36e"
-          }
-        ]
-      }
-    },
     "violent urge": {
       "name": "Violent Urge",
       "owners": {
@@ -213392,21 +213247,6 @@
         ]
       }
     },
-    "item shopkeep": {
-      "name": "Item Shopkeep",
-      "owners": {
-        "Lucho": [
-          {
-            "qty": 3,
-            "set": "fin",
-            "setName": "Final Fantasy",
-            "isFoil": false,
-            "collectorNumber": "142",
-            "scryfallId": "bd2db3f5-fd0d-4817-af90-6bea1f07e16b"
-          }
-        ]
-      }
-    },
     "self-destruct": {
       "name": "Self-Destruct",
       "owners": {
@@ -213472,56 +213312,6 @@
         ]
       }
     },
-    "blazing bomb": {
-      "name": "Blazing Bomb",
-      "owners": {
-        "Lucho": [
-          {
-            "qty": 2,
-            "set": "fin",
-            "setName": "Final Fantasy",
-            "isFoil": false,
-            "collectorNumber": "130",
-            "scryfallId": "70f47277-ca47-428a-808f-0fb32e820a71"
-          }
-        ],
-        "Jona": [
-          {
-            "qty": 1,
-            "set": "fin",
-            "setName": "Final Fantasy",
-            "isFoil": false,
-            "collectorNumber": "130",
-            "scryfallId": "70f47277-ca47-428a-808f-0fb32e820a71"
-          }
-        ]
-      }
-    },
-    "red mage's rapier": {
-      "name": "Red Mage's Rapier",
-      "owners": {
-        "Lucho": [
-          {
-            "qty": 4,
-            "set": "fin",
-            "setName": "Final Fantasy",
-            "isFoil": false,
-            "collectorNumber": "152",
-            "scryfallId": "e0579955-75f9-47a9-8b03-e287d120826a"
-          }
-        ],
-        "Guille A.": [
-          {
-            "qty": 1,
-            "set": "fin",
-            "setName": "Final Fantasy",
-            "isFoil": false,
-            "collectorNumber": "152",
-            "scryfallId": "e0579955-75f9-47a9-8b03-e287d120826a"
-          }
-        ]
-      }
-    },
     "kavaron harrier": {
       "name": "Kavaron Harrier",
       "owners": {
@@ -213573,21 +213363,6 @@
             "isFoil": false,
             "collectorNumber": "131",
             "scryfallId": "14f2ed5a-042b-4cce-82ad-cfb4bd511d98"
-          }
-        ]
-      }
-    },
-    "hobgoblin, mantled marauder": {
-      "name": "Hobgoblin, Mantled Marauder",
-      "owners": {
-        "Lucho": [
-          {
-            "qty": 2,
-            "set": "spm",
-            "setName": "Marvel's Spider-Man",
-            "isFoil": false,
-            "collectorNumber": "80",
-            "scryfallId": "50716fe3-7a19-431e-8758-984fc48d714e"
           }
         ]
       }
@@ -213773,6 +213548,231 @@
             "isFoil": false,
             "collectorNumber": "108",
             "scryfallId": "7bf81a8b-52ad-49f5-a3d4-22613cad3a3d"
+          }
+        ]
+      }
+    },
+    "ogre menial": {
+      "name": "Ogre Menial",
+      "owners": {
+        "Lucho": [
+          {
+            "qty": 2,
+            "set": "nph",
+            "setName": "New Phyrexia",
+            "isFoil": false,
+            "collectorNumber": "89",
+            "scryfallId": "6271c5c1-5f39-4908-b838-0f34c74e912e"
+          }
+        ]
+      }
+    },
+    "voltage surge": {
+      "name": "Voltage Surge",
+      "owners": {
+        "Lucho": [
+          {
+            "qty": 2,
+            "set": "neo",
+            "setName": "Kamigawa: Neon Dynasty",
+            "isFoil": false,
+            "collectorNumber": "171",
+            "scryfallId": "5a9b7141-45b9-4629-a4e4-b50f93929717"
+          }
+        ]
+      }
+    },
+    "obliterating bolt": {
+      "name": "Obliterating Bolt",
+      "owners": {
+        "Lucho": [
+          {
+            "qty": 2,
+            "set": "fdn",
+            "setName": "Foundations",
+            "isFoil": false,
+            "collectorNumber": "629",
+            "scryfallId": "d59e836b-1c7b-43ac-889b-5f94e1638c42"
+          }
+        ]
+      }
+    },
+    "painter's studio // defaced gallery": {
+      "name": "Painter's Studio // Defaced Gallery",
+      "owners": {
+        "Lucho": [
+          {
+            "qty": 2,
+            "set": "dsk",
+            "setName": "Duskmourn: House of Horror",
+            "isFoil": false,
+            "collectorNumber": "147",
+            "scryfallId": "e96901eb-5b57-43f4-a7b1-ae3b809bc36e"
+          }
+        ]
+      }
+    },
+    "blazing bomb": {
+      "name": "Blazing Bomb",
+      "owners": {
+        "Lucho": [
+          {
+            "qty": 2,
+            "set": "fin",
+            "setName": "Final Fantasy",
+            "isFoil": false,
+            "collectorNumber": "130",
+            "scryfallId": "70f47277-ca47-428a-808f-0fb32e820a71"
+          }
+        ],
+        "Jona": [
+          {
+            "qty": 1,
+            "set": "fin",
+            "setName": "Final Fantasy",
+            "isFoil": false,
+            "collectorNumber": "130",
+            "scryfallId": "70f47277-ca47-428a-808f-0fb32e820a71"
+          }
+        ]
+      }
+    },
+    "hobgoblin, mantled marauder": {
+      "name": "Hobgoblin, Mantled Marauder",
+      "owners": {
+        "Lucho": [
+          {
+            "qty": 2,
+            "set": "spm",
+            "setName": "Marvel's Spider-Man",
+            "isFoil": false,
+            "collectorNumber": "80",
+            "scryfallId": "50716fe3-7a19-431e-8758-984fc48d714e"
+          }
+        ]
+      }
+    },
+    "drannith stinger": {
+      "name": "Drannith Stinger",
+      "owners": {
+        "Lucho": [
+          {
+            "qty": 4,
+            "set": "iko",
+            "setName": "Ikoria: Lair of Behemoths",
+            "isFoil": false,
+            "collectorNumber": "113",
+            "scryfallId": "612ee4be-e7a2-423c-a37c-7c6ca97f630e"
+          }
+        ]
+      }
+    },
+    "red mage's rapier": {
+      "name": "Red Mage's Rapier",
+      "owners": {
+        "Lucho": [
+          {
+            "qty": 4,
+            "set": "fin",
+            "setName": "Final Fantasy",
+            "isFoil": false,
+            "collectorNumber": "152",
+            "scryfallId": "e0579955-75f9-47a9-8b03-e287d120826a"
+          }
+        ],
+        "Guille A.": [
+          {
+            "qty": 1,
+            "set": "fin",
+            "setName": "Final Fantasy",
+            "isFoil": false,
+            "collectorNumber": "152",
+            "scryfallId": "e0579955-75f9-47a9-8b03-e287d120826a"
+          }
+        ]
+      }
+    },
+    "hammer of bogardan": {
+      "name": "Hammer of Bogardan",
+      "owners": {
+        "Lucho": [
+          {
+            "qty": 3,
+            "set": "8ed",
+            "setName": "Eighth Edition",
+            "isFoil": false,
+            "collectorNumber": "193",
+            "scryfallId": "abf6e6c0-ddea-4d15-ab1a-5c7d9fa69d51"
+          }
+        ],
+        "Bruno (Sta Fe)": [
+          {
+            "qty": 1,
+            "set": "mir",
+            "setName": "Mirage",
+            "isFoil": false,
+            "collectorNumber": "181",
+            "scryfallId": "f7285f52-5df0-4f90-9cf7-a57295d90fd4"
+          }
+        ]
+      }
+    },
+    "scrapyard salvo": {
+      "name": "Scrapyard Salvo",
+      "owners": {
+        "Lucho": [
+          {
+            "qty": 3,
+            "set": "nph",
+            "setName": "New Phyrexia",
+            "isFoil": false,
+            "collectorNumber": "94",
+            "scryfallId": "3a4874eb-635b-47f0-bbee-6bd8b26e2f10"
+          }
+        ]
+      }
+    },
+    "footfall crater": {
+      "name": "Footfall Crater",
+      "owners": {
+        "Lucho": [
+          {
+            "qty": 3,
+            "set": "iko",
+            "setName": "Ikoria: Lair of Behemoths",
+            "isFoil": false,
+            "collectorNumber": "118",
+            "scryfallId": "f1b75aac-54e3-4181-bac5-5a142757ec05"
+          }
+        ]
+      }
+    },
+    "go for blood": {
+      "name": "Go for Blood",
+      "owners": {
+        "Lucho": [
+          {
+            "qty": 3,
+            "set": "iko",
+            "setName": "Ikoria: Lair of Behemoths",
+            "isFoil": false,
+            "collectorNumber": "122",
+            "scryfallId": "67315df9-99a1-45ba-8ade-ddc476368a86"
+          }
+        ]
+      }
+    },
+    "item shopkeep": {
+      "name": "Item Shopkeep",
+      "owners": {
+        "Lucho": [
+          {
+            "qty": 3,
+            "set": "fin",
+            "setName": "Final Fantasy",
+            "isFoil": false,
+            "collectorNumber": "142",
+            "scryfallId": "bd2db3f5-fd0d-4817-af90-6bea1f07e16b"
           }
         ]
       }
@@ -219634,19 +219634,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "nem",
-            "setName": "Nemesis",
-            "isFoil": false,
-            "collectorNumber": "18",
-            "scryfallId": "af6c921e-1b82-412c-9979-adfdf83440f7"
-          },
-          {
-            "qty": 1,
             "set": "ema",
             "setName": "Eternal Masters",
             "isFoil": true,
             "collectorNumber": "26",
             "scryfallId": "fa7e69e8-a527-44b8-a8d8-79e09b92c7b2"
+          },
+          {
+            "qty": 1,
+            "set": "nem",
+            "setName": "Nemesis",
+            "isFoil": false,
+            "collectorNumber": "18",
+            "scryfallId": "af6c921e-1b82-412c-9979-adfdf83440f7"
           }
         ]
       }
@@ -227741,20 +227741,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
+            "qty": 2,
+            "set": "psoi",
+            "setName": "Shadows over Innistrad Promos",
+            "isFoil": true,
+            "collectorNumber": "108",
+            "scryfallId": "f31cb1d0-b6c5-4851-a0a5-7847eba9b5fb"
+          },
+          {
             "qty": 4,
             "set": "soi",
             "setName": "Shadows over Innistrad",
             "isFoil": false,
             "collectorNumber": "108",
             "scryfallId": "a32ce90d-9138-4aca-aa3c-a558dd16fad8"
-          },
-          {
-            "qty": 2,
-            "set": "psoi",
-            "setName": "Shadows over Innistrad Promos",
-            "isFoil": true,
-            "collectorNumber": "108s",
-            "scryfallId": "25f7030d-a6a1-4a51-b3c9-a48071adb7e0"
           }
         ]
       }
@@ -229002,8 +229002,8 @@
             "set": "pdtk",
             "setName": "Dragons of Tarkir Promos",
             "isFoil": true,
-            "collectorNumber": "162s",
-            "scryfallId": "0b0f5ee8-9ee3-45d6-8028-77d9a8c1a401"
+            "collectorNumber": "162",
+            "scryfallId": "06287e93-0da9-4526-88a9-7dda7662e777"
           }
         ]
       }
@@ -234011,20 +234011,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "10e",
-            "setName": "Tenth Edition",
-            "isFoil": true,
-            "collectorNumber": "213",
-            "scryfallId": "723fb62e-735a-4ca6-9d38-f1c3944fe69a"
-          },
-          {
             "qty": 7,
             "set": "p08",
             "setName": "Magic Player Rewards 2008",
             "isFoil": false,
             "collectorNumber": "3",
             "scryfallId": "f09dd696-8dff-41dd-b510-b2ad4c5d6c36"
+          },
+          {
+            "qty": 1,
+            "set": "10e",
+            "setName": "Tenth Edition",
+            "isFoil": true,
+            "collectorNumber": "213",
+            "scryfallId": "723fb62e-735a-4ca6-9d38-f1c3944fe69a"
           },
           {
             "qty": 2,
@@ -234440,20 +234440,20 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "dis",
-            "setName": "Dissension",
-            "isFoil": false,
-            "collectorNumber": "60",
-            "scryfallId": "af2ad333-722e-4d7e-972a-903c24068931"
-          },
-          {
             "qty": 4,
             "set": "dd2",
             "setName": "Duel Decks: Jace vs. Chandra",
             "isFoil": false,
             "collectorNumber": "57",
             "scryfallId": "ffbc80e7-9788-4b6b-a254-24c7670a88ce"
+          },
+          {
+            "qty": 1,
+            "set": "dis",
+            "setName": "Dissension",
+            "isFoil": false,
+            "collectorNumber": "60",
+            "scryfallId": "af2ad333-722e-4d7e-972a-903c24068931"
           }
         ]
       }
@@ -243715,18 +243715,18 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "sos",
-            "setName": "Secrets of Strixhaven",
-            "isFoil": false,
-            "collectorNumber": "100",
-            "scryfallId": "283b508b-89f0-4c23-9686-b049e402b73c"
-          },
-          {
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
             "isFoil": true,
+            "collectorNumber": "100",
+            "scryfallId": "283b508b-89f0-4c23-9686-b049e402b73c"
+          },
+          {
+            "qty": 2,
+            "set": "sos",
+            "setName": "Secrets of Strixhaven",
+            "isFoil": false,
             "collectorNumber": "100",
             "scryfallId": "283b508b-89f0-4c23-9686-b049e402b73c"
           }
@@ -243868,18 +243868,18 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "sos",
-            "setName": "Secrets of Strixhaven",
-            "isFoil": false,
-            "collectorNumber": "28",
-            "scryfallId": "97b50521-5a0f-4dbd-8e15-f0f0d059c258"
-          },
-          {
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
             "isFoil": true,
+            "collectorNumber": "28",
+            "scryfallId": "97b50521-5a0f-4dbd-8e15-f0f0d059c258"
+          },
+          {
+            "qty": 2,
+            "set": "sos",
+            "setName": "Secrets of Strixhaven",
+            "isFoil": false,
             "collectorNumber": "28",
             "scryfallId": "97b50521-5a0f-4dbd-8e15-f0f0d059c258"
           }
@@ -244099,7 +244099,7 @@
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
-            "isFoil": false,
+            "isFoil": true,
             "collectorNumber": "157",
             "scryfallId": "c1251ae6-2f19-4f84-ab02-6a6cc7ce6056"
           },
@@ -244107,7 +244107,7 @@
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
-            "isFoil": true,
+            "isFoil": false,
             "collectorNumber": "157",
             "scryfallId": "c1251ae6-2f19-4f84-ab02-6a6cc7ce6056"
           }
@@ -244337,7 +244337,7 @@
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
-            "isFoil": false,
+            "isFoil": true,
             "collectorNumber": "153",
             "scryfallId": "c5e7c856-8b71-44e6-8998-0b0b3ff0ef99"
           },
@@ -244345,7 +244345,7 @@
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
-            "isFoil": true,
+            "isFoil": false,
             "collectorNumber": "153",
             "scryfallId": "c5e7c856-8b71-44e6-8998-0b0b3ff0ef99"
           }
@@ -245562,18 +245562,18 @@
         ],
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "sos",
-            "setName": "Secrets of Strixhaven",
-            "isFoil": true,
-            "collectorNumber": "6",
-            "scryfallId": "9cd1417a-badc-4abd-a8ca-5b31f85c1072"
-          },
-          {
             "qty": 2,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
             "isFoil": false,
+            "collectorNumber": "6",
+            "scryfallId": "9cd1417a-badc-4abd-a8ca-5b31f85c1072"
+          },
+          {
+            "qty": 1,
+            "set": "sos",
+            "setName": "Secrets of Strixhaven",
+            "isFoil": true,
             "collectorNumber": "6",
             "scryfallId": "9cd1417a-badc-4abd-a8ca-5b31f85c1072"
           }
@@ -245596,6 +245596,14 @@
         "Manuel Venturini (Sta Fe)": [
           {
             "qty": 1,
+            "set": "gtc",
+            "setName": "Gatecrash",
+            "isFoil": false,
+            "collectorNumber": "29",
+            "scryfallId": "33303859-c6e0-4ebd-bb5f-44be7f5d7459"
+          },
+          {
+            "qty": 1,
             "set": "plst",
             "setName": "The List",
             "isFoil": false,
@@ -245609,14 +245617,6 @@
             "isFoil": false,
             "collectorNumber": "36",
             "scryfallId": "7b7283bc-6407-4715-9d0a-19c3cca1dbd0"
-          },
-          {
-            "qty": 1,
-            "set": "gtc",
-            "setName": "Gatecrash",
-            "isFoil": false,
-            "collectorNumber": "29",
-            "scryfallId": "33303859-c6e0-4ebd-bb5f-44be7f5d7459"
           }
         ]
       }
@@ -245887,19 +245887,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "vis",
-            "setName": "Visions",
-            "isFoil": false,
-            "collectorNumber": "159",
-            "scryfallId": "0b1c856f-6d29-4bfc-976e-7875d60abd52"
-          },
-          {
-            "qty": 1,
             "set": "6ed",
             "setName": "Classic Sixth Edition",
             "isFoil": false,
             "collectorNumber": "317",
             "scryfallId": "f6f37dd8-87d6-432f-a60d-a7a699da3080"
+          },
+          {
+            "qty": 1,
+            "set": "vis",
+            "setName": "Visions",
+            "isFoil": false,
+            "collectorNumber": "159",
+            "scryfallId": "0b1c856f-6d29-4bfc-976e-7875d60abd52"
           }
         ]
       }
@@ -246297,20 +246297,20 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "mb2",
-            "setName": "Mystery Booster 2",
-            "isFoil": false,
-            "collectorNumber": "101",
-            "scryfallId": "a8da2a6c-f63e-4724-bbdb-19d35b85a640"
-          },
-          {
             "qty": 5,
             "set": "shm",
             "setName": "Shadowmoor",
             "isFoil": false,
             "collectorNumber": "267",
             "scryfallId": "10e35711-aec9-4024-a2a6-9efff8c71df2"
+          },
+          {
+            "qty": 1,
+            "set": "mb2",
+            "setName": "Mystery Booster 2",
+            "isFoil": false,
+            "collectorNumber": "101",
+            "scryfallId": "a8da2a6c-f63e-4724-bbdb-19d35b85a640"
           }
         ]
       }
@@ -246506,19 +246506,19 @@
         "Manuel Venturini (Sta Fe)": [
           {
             "qty": 1,
-            "set": "sld",
-            "setName": "Secret Lair Drop",
-            "isFoil": true,
-            "collectorNumber": "2661",
-            "scryfallId": "6d2e2e8d-8382-4d98-9e25-2dff1b1d0ff8"
-          },
-          {
-            "qty": 1,
             "set": "mh2",
             "setName": "Modern Horizons 2",
             "isFoil": true,
             "collectorNumber": "180",
             "scryfallId": "5c5be54d-660e-42ab-b5ea-5e1cf3bad0bc"
+          },
+          {
+            "qty": 1,
+            "set": "sld",
+            "setName": "Secret Lair Drop",
+            "isFoil": true,
+            "collectorNumber": "2661",
+            "scryfallId": "6d2e2e8d-8382-4d98-9e25-2dff1b1d0ff8"
           }
         ]
       }
@@ -246528,20 +246528,20 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "ody",
-            "setName": "Odyssey",
-            "isFoil": false,
-            "collectorNumber": "108",
-            "scryfallId": "d4c3d626-880c-422a-ac09-a79a52847477"
-          },
-          {
             "qty": 2,
             "set": "10e",
             "setName": "Tenth Edition",
             "isFoil": false,
             "collectorNumber": "118",
             "scryfallId": "3c878780-f666-44ab-a60e-c9985f628fc3"
+          },
+          {
+            "qty": 1,
+            "set": "ody",
+            "setName": "Odyssey",
+            "isFoil": false,
+            "collectorNumber": "108",
+            "scryfallId": "d4c3d626-880c-422a-ac09-a79a52847477"
           }
         ]
       }
@@ -246759,20 +246759,20 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 3,
-            "set": "war",
-            "setName": "War of the Spark",
-            "isFoil": false,
-            "collectorNumber": "221",
-            "scryfallId": "5cb76266-ae50-4bbc-8f96-d98f309b02d3"
-          },
-          {
             "qty": 1,
             "set": "mb2",
             "setName": "Mystery Booster 2",
             "isFoil": false,
             "collectorNumber": "91",
             "scryfallId": "1e155fa4-896a-4ba6-939e-03c7877ac47e"
+          },
+          {
+            "qty": 3,
+            "set": "war",
+            "setName": "War of the Spark",
+            "isFoil": false,
+            "collectorNumber": "221",
+            "scryfallId": "5cb76266-ae50-4bbc-8f96-d98f309b02d3"
           }
         ]
       }
@@ -247058,19 +247058,19 @@
         "Manuel Venturini (Sta Fe)": [
           {
             "qty": 1,
-            "set": "mb2",
-            "setName": "Mystery Booster 2",
-            "isFoil": false,
-            "collectorNumber": "172",
-            "scryfallId": "95f92488-7a7b-48ad-a3b9-8eb83cef1c48"
-          },
-          {
-            "qty": 1,
             "set": "ody",
             "setName": "Odyssey",
             "isFoil": false,
             "collectorNumber": "102",
             "scryfallId": "3ede3f6f-e642-4fe4-aa37-0f01cdf4d149"
+          },
+          {
+            "qty": 1,
+            "set": "mb2",
+            "setName": "Mystery Booster 2",
+            "isFoil": false,
+            "collectorNumber": "172",
+            "scryfallId": "95f92488-7a7b-48ad-a3b9-8eb83cef1c48"
           }
         ]
       }
@@ -247318,23 +247318,31 @@
             "scryfallId": "ccd3afb3-5574-4f2d-adbe-969a428f1c63"
           },
           {
-            "qty": 1,
-            "set": "mb2",
-            "setName": "Mystery Booster 2",
-            "isFoil": false,
-            "collectorNumber": "119",
-            "scryfallId": "c55fd65e-7701-447f-a42b-942eadccae3d"
-          },
-          {
             "qty": 6,
             "set": "csp",
             "setName": "Coldsnap",
             "isFoil": false,
             "collectorNumber": "154",
             "scryfallId": "0dc9a6d1-a1ca-4b8f-894d-71c2a9933f79"
+          },
+          {
+            "qty": 1,
+            "set": "mb2",
+            "setName": "Mystery Booster 2",
+            "isFoil": false,
+            "collectorNumber": "119",
+            "scryfallId": "c55fd65e-7701-447f-a42b-942eadccae3d"
           }
         ],
         "Bruno (Sta Fe)": [
+          {
+            "qty": 2,
+            "set": "csp",
+            "setName": "Coldsnap",
+            "isFoil": false,
+            "collectorNumber": "154",
+            "scryfallId": "0dc9a6d1-a1ca-4b8f-894d-71c2a9933f79"
+          },
           {
             "qty": 2,
             "set": "ice",
@@ -247342,14 +247350,6 @@
             "isFoil": false,
             "collectorNumber": "379",
             "scryfallId": "ccd3afb3-5574-4f2d-adbe-969a428f1c63"
-          },
-          {
-            "qty": 2,
-            "set": "csp",
-            "setName": "Coldsnap",
-            "isFoil": false,
-            "collectorNumber": "154",
-            "scryfallId": "0dc9a6d1-a1ca-4b8f-894d-71c2a9933f79"
           }
         ]
       }
@@ -247643,19 +247643,19 @@
         "Manuel Venturini (Sta Fe)": [
           {
             "qty": 1,
-            "set": "wth",
-            "setName": "Weatherlight",
-            "isFoil": false,
-            "collectorNumber": "25",
-            "scryfallId": "2794cca9-3df0-4864-8a98-4de71a2bcf17"
-          },
-          {
-            "qty": 1,
             "set": "6ed",
             "setName": "Classic Sixth Edition",
             "isFoil": false,
             "collectorNumber": "42",
             "scryfallId": "c6751671-9ef9-45f2-8e27-8c896936929a"
+          },
+          {
+            "qty": 1,
+            "set": "wth",
+            "setName": "Weatherlight",
+            "isFoil": false,
+            "collectorNumber": "25",
+            "scryfallId": "2794cca9-3df0-4864-8a98-4de71a2bcf17"
           }
         ]
       }
@@ -247940,20 +247940,20 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "ema",
-            "setName": "Eternal Masters",
-            "isFoil": false,
-            "collectorNumber": "231",
-            "scryfallId": "436cd66c-0622-43cd-8748-af4d21a2db3f"
-          },
-          {
             "qty": 2,
             "set": "ala",
             "setName": "Shards of Alara",
             "isFoil": false,
             "collectorNumber": "218",
             "scryfallId": "90c41192-64ef-43aa-9af0-75f0d3f56688"
+          },
+          {
+            "qty": 1,
+            "set": "ema",
+            "setName": "Eternal Masters",
+            "isFoil": false,
+            "collectorNumber": "231",
+            "scryfallId": "436cd66c-0622-43cd-8748-af4d21a2db3f"
           }
         ]
       }
@@ -247963,20 +247963,20 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 4,
-            "set": "m10",
-            "setName": "Magic 2010",
-            "isFoil": false,
-            "collectorNumber": "108",
-            "scryfallId": "700dfa3a-299d-4d4e-bb32-d29a1f6aa670"
-          },
-          {
             "qty": 1,
             "set": "a25",
             "setName": "Masters 25",
             "isFoil": false,
             "collectorNumber": "105",
             "scryfallId": "75f47b6e-9557-4853-b8d6-7602a91c59a7"
+          },
+          {
+            "qty": 4,
+            "set": "m10",
+            "setName": "Magic 2010",
+            "isFoil": false,
+            "collectorNumber": "108",
+            "scryfallId": "700dfa3a-299d-4d4e-bb32-d29a1f6aa670"
           }
         ],
         "Bruno (Sta Fe)": [
@@ -247987,14 +247987,6 @@
             "isFoil": false,
             "collectorNumber": "113",
             "scryfallId": "f873c62a-7efc-40d8-8c0a-55e9a94847b8"
-          },
-          {
-            "qty": 1,
-            "set": "5dn",
-            "setName": "Fifth Dawn",
-            "isFoil": false,
-            "collectorNumber": "58",
-            "scryfallId": "1c9caf97-75c6-4e12-8724-1abe32212bef"
           },
           {
             "qty": 1,
@@ -248011,6 +248003,14 @@
             "isFoil": false,
             "collectorNumber": "108",
             "scryfallId": "700dfa3a-299d-4d4e-bb32-d29a1f6aa670"
+          },
+          {
+            "qty": 1,
+            "set": "5dn",
+            "setName": "Fifth Dawn",
+            "isFoil": false,
+            "collectorNumber": "58",
+            "scryfallId": "1c9caf97-75c6-4e12-8724-1abe32212bef"
           }
         ]
       }
@@ -248110,18 +248110,18 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 11,
-            "set": "dom",
-            "setName": "Dominaria",
-            "isFoil": false,
-            "collectorNumber": "101",
-            "scryfallId": "4f618e07-f06f-45d2-8512-e6cef88c0434"
-          },
-          {
             "qty": 1,
             "set": "dom",
             "setName": "Dominaria",
             "isFoil": true,
+            "collectorNumber": "101",
+            "scryfallId": "4f618e07-f06f-45d2-8512-e6cef88c0434"
+          },
+          {
+            "qty": 11,
+            "set": "dom",
+            "setName": "Dominaria",
+            "isFoil": false,
             "collectorNumber": "101",
             "scryfallId": "4f618e07-f06f-45d2-8512-e6cef88c0434"
           }
@@ -248263,20 +248263,20 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "m10",
-            "setName": "Magic 2010",
-            "isFoil": false,
-            "collectorNumber": "200",
-            "scryfallId": "8a530d1e-2aff-4684-8f21-743a73f285ff"
-          },
-          {
             "qty": 2,
             "set": "m11",
             "setName": "Magic 2011",
             "isFoil": false,
             "collectorNumber": "194",
             "scryfallId": "f63d54c1-1b20-48c4-871d-0bb15e608996"
+          },
+          {
+            "qty": 1,
+            "set": "m10",
+            "setName": "Magic 2010",
+            "isFoil": false,
+            "collectorNumber": "200",
+            "scryfallId": "8a530d1e-2aff-4684-8f21-743a73f285ff"
           }
         ],
         "Bruno (Sta Fe)": [
@@ -248411,20 +248411,20 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "6ed",
-            "setName": "Classic Sixth Edition",
-            "isFoil": false,
-            "collectorNumber": "86",
-            "scryfallId": "e35b8c9b-40d0-4986-9457-ef1263fdfae1"
-          },
-          {
             "qty": 2,
             "set": "m10",
             "setName": "Magic 2010",
             "isFoil": false,
             "collectorNumber": "67",
             "scryfallId": "83d274f4-452b-4ff2-b026-83667e9ba98f"
+          },
+          {
+            "qty": 1,
+            "set": "6ed",
+            "setName": "Classic Sixth Edition",
+            "isFoil": false,
+            "collectorNumber": "86",
+            "scryfallId": "e35b8c9b-40d0-4986-9457-ef1263fdfae1"
           }
         ]
       }
@@ -249487,20 +249487,20 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "2xm",
-            "setName": "Double Masters",
-            "isFoil": false,
-            "collectorNumber": "208",
-            "scryfallId": "faf9070e-14be-4ce5-a19a-6addc79359c1"
-          },
-          {
             "qty": 3,
             "set": "shm",
             "setName": "Shadowmoor",
             "isFoil": false,
             "collectorNumber": "211",
             "scryfallId": "50283122-b8c4-4fb3-8eba-6252b72222f4"
+          },
+          {
+            "qty": 1,
+            "set": "2xm",
+            "setName": "Double Masters",
+            "isFoil": false,
+            "collectorNumber": "208",
+            "scryfallId": "faf9070e-14be-4ce5-a19a-6addc79359c1"
           }
         ]
       }
@@ -250375,6 +250375,21 @@
         ]
       }
     },
+    "hunter's bow": {
+      "name": "Hunter's Bow",
+      "owners": {
+        "Manuel Venturini (Sta Fe)": [
+          {
+            "qty": 1,
+            "set": "acr",
+            "setName": "Assassin's Creed",
+            "isFoil": false,
+            "collectorNumber": "41",
+            "scryfallId": "ca2765df-edff-4607-843c-8528d5d4fce9"
+          }
+        ]
+      }
+    },
     "howling mine": {
       "name": "Howling Mine",
       "owners": {
@@ -251193,20 +251208,20 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "zen",
-            "setName": "Zendikar",
-            "isFoil": false,
-            "collectorNumber": "201",
-            "scryfallId": "c55bee97-593f-441f-b96c-a998d5212a55"
-          },
-          {
             "qty": 2,
             "set": "plst",
             "setName": "The List",
             "isFoil": false,
             "collectorNumber": "2XM-255",
             "scryfallId": "618eff8e-c1e6-488e-897c-891533608eab"
+          },
+          {
+            "qty": 1,
+            "set": "zen",
+            "setName": "Zendikar",
+            "isFoil": false,
+            "collectorNumber": "201",
+            "scryfallId": "c55bee97-593f-441f-b96c-a998d5212a55"
           }
         ]
       }
@@ -251336,20 +251351,20 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "uds",
-            "setName": "Urza's Destiny",
-            "isFoil": false,
-            "collectorNumber": "104",
-            "scryfallId": "55e76333-0959-4572-a1ca-d77f76da1279"
-          },
-          {
             "qty": 2,
             "set": "m10",
             "setName": "Magic 2010",
             "isFoil": false,
             "collectorNumber": "177",
             "scryfallId": "5666cb39-5fea-4eaa-a6da-1b2ffc5a3811"
+          },
+          {
+            "qty": 1,
+            "set": "uds",
+            "setName": "Urza's Destiny",
+            "isFoil": false,
+            "collectorNumber": "104",
+            "scryfallId": "55e76333-0959-4572-a1ca-d77f76da1279"
           }
         ]
       }
@@ -251799,18 +251814,18 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "m19",
-            "setName": "Core Set 2019",
-            "isFoil": true,
-            "collectorNumber": "90",
-            "scryfallId": "c9699446-b6f5-4e6a-a263-059cbf6e4b7e"
-          },
-          {
             "qty": 3,
             "set": "m19",
             "setName": "Core Set 2019",
             "isFoil": false,
+            "collectorNumber": "90",
+            "scryfallId": "c9699446-b6f5-4e6a-a263-059cbf6e4b7e"
+          },
+          {
+            "qty": 1,
+            "set": "m19",
+            "setName": "Core Set 2019",
+            "isFoil": true,
             "collectorNumber": "90",
             "scryfallId": "c9699446-b6f5-4e6a-a263-059cbf6e4b7e"
           }
@@ -251837,22 +251852,6 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "mir",
-            "setName": "Mirage",
-            "isFoil": false,
-            "collectorNumber": "116",
-            "scryfallId": "1b5fc7ce-0618-4145-b8aa-bc871e4afa99"
-          },
-          {
-            "qty": 1,
-            "set": "tmp",
-            "setName": "Tempest",
-            "isFoil": false,
-            "collectorNumber": "118",
-            "scryfallId": "bf4708e8-2149-4990-987c-2ea55fc6c508"
-          },
-          {
             "qty": 4,
             "set": "mmq",
             "setName": "Mercadian Masques",
@@ -251867,6 +251866,22 @@
             "isFoil": false,
             "collectorNumber": "179",
             "scryfallId": "ed01a644-f25c-44ee-aa42-688203032798"
+          },
+          {
+            "qty": 1,
+            "set": "mir",
+            "setName": "Mirage",
+            "isFoil": false,
+            "collectorNumber": "116",
+            "scryfallId": "1b5fc7ce-0618-4145-b8aa-bc871e4afa99"
+          },
+          {
+            "qty": 1,
+            "set": "tmp",
+            "setName": "Tempest",
+            "isFoil": false,
+            "collectorNumber": "118",
+            "scryfallId": "bf4708e8-2149-4990-987c-2ea55fc6c508"
           }
         ]
       }
@@ -252221,20 +252236,20 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "mb2",
-            "setName": "Mystery Booster 2",
-            "isFoil": false,
-            "collectorNumber": "156",
-            "scryfallId": "ca7d8d4a-76bb-473b-80a4-d4c1a2f435bc"
-          },
-          {
             "qty": 3,
             "set": "ons",
             "setName": "Onslaught",
             "isFoil": false,
             "collectorNumber": "73",
             "scryfallId": "30f6b4a2-5780-46e9-b239-459d2cf37743"
+          },
+          {
+            "qty": 1,
+            "set": "mb2",
+            "setName": "Mystery Booster 2",
+            "isFoil": false,
+            "collectorNumber": "156",
+            "scryfallId": "ca7d8d4a-76bb-473b-80a4-d4c1a2f435bc"
           }
         ]
       }
@@ -252365,6 +252380,21 @@
             "isFoil": true,
             "collectorNumber": "11",
             "scryfallId": "eb098550-22e6-4079-8c59-ed9ec2f764e3"
+          }
+        ]
+      }
+    },
+    "captain america's shield": {
+      "name": "Captain America's Shield",
+      "owners": {
+        "Manuel Venturini (Sta Fe)": [
+          {
+            "qty": 1,
+            "set": "msh",
+            "setName": "Marvel Super Heroes",
+            "isFoil": false,
+            "collectorNumber": "244",
+            "scryfallId": "4b5433ac-0d36-4472-bf8b-d22f0ffd367b"
           }
         ]
       }
@@ -252509,20 +252539,20 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 3,
-            "set": "shm",
-            "setName": "Shadowmoor",
-            "isFoil": false,
-            "collectorNumber": "83",
-            "scryfallId": "6322a389-44cc-4a3d-bd39-93c156640f8e"
-          },
-          {
             "qty": 1,
             "set": "dpa",
             "setName": "Duels of the Planeswalkers",
             "isFoil": false,
             "collectorNumber": "40",
             "scryfallId": "b51595ba-b783-42ca-85a4-0e31f8ec8def"
+          },
+          {
+            "qty": 3,
+            "set": "shm",
+            "setName": "Shadowmoor",
+            "isFoil": false,
+            "collectorNumber": "83",
+            "scryfallId": "6322a389-44cc-4a3d-bd39-93c156640f8e"
           }
         ]
       }
@@ -252772,6 +252802,21 @@
         ]
       }
     },
+    "aya of alexandria": {
+      "name": "Aya of Alexandria",
+      "owners": {
+        "Manuel Venturini (Sta Fe)": [
+          {
+            "qty": 1,
+            "set": "acr",
+            "setName": "Assassin's Creed",
+            "isFoil": false,
+            "collectorNumber": "48",
+            "scryfallId": "80bd1928-18ec-4f55-acd8-9a62f9869fff"
+          }
+        ]
+      }
+    },
     "aurelia, exemplar of justice": {
       "name": "Aurelia, Exemplar of Justice",
       "owners": {
@@ -252960,18 +253005,18 @@
       "owners": {
         "Manuel Venturini (Sta Fe)": [
           {
-            "qty": 12,
-            "set": "shm",
-            "setName": "Shadowmoor",
-            "isFoil": false,
-            "collectorNumber": "55",
-            "scryfallId": "52fd47e7-02c5-4f91-bb3b-697c4c53232a"
-          },
-          {
             "qty": 1,
             "set": "shm",
             "setName": "Shadowmoor",
             "isFoil": true,
+            "collectorNumber": "55",
+            "scryfallId": "52fd47e7-02c5-4f91-bb3b-697c4c53232a"
+          },
+          {
+            "qty": 12,
+            "set": "shm",
+            "setName": "Shadowmoor",
+            "isFoil": false,
             "collectorNumber": "55",
             "scryfallId": "52fd47e7-02c5-4f91-bb3b-697c4c53232a"
           }
@@ -253074,6 +253119,21 @@
             "isFoil": false,
             "collectorNumber": "4",
             "scryfallId": "eeb1f8ff-c32f-4d75-8c04-f97d05ba47d6"
+          }
+        ]
+      }
+    },
+    "alexios, deimos of kosmos": {
+      "name": "Alexios, Deimos of Kosmos",
+      "owners": {
+        "Manuel Venturini (Sta Fe)": [
+          {
+            "qty": 1,
+            "set": "acr",
+            "setName": "Assassin's Creed",
+            "isFoil": false,
+            "collectorNumber": "33",
+            "scryfallId": "e81b94b2-4052-4686-a788-9baf0fa0f81a"
           }
         ]
       }
@@ -253191,20 +253251,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 4,
-            "set": "scg",
-            "setName": "Scourge",
-            "isFoil": false,
-            "collectorNumber": "25",
-            "scryfallId": "65efa443-666a-45c1-8784-e98c510854b5"
-          },
-          {
             "qty": 1,
             "set": "c14",
             "setName": "Commander 2014",
             "isFoil": false,
             "collectorNumber": "97",
             "scryfallId": "7f425e08-966c-44e5-b2b5-3f4f89b70615"
+          },
+          {
+            "qty": 4,
+            "set": "scg",
+            "setName": "Scourge",
+            "isFoil": false,
+            "collectorNumber": "25",
+            "scryfallId": "65efa443-666a-45c1-8784-e98c510854b5"
           }
         ]
       }
@@ -254011,18 +254071,18 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "nph",
-            "setName": "New Phyrexia",
-            "isFoil": false,
-            "collectorNumber": "18",
-            "scryfallId": "b4a1e16a-39f0-47ab-aba8-73e82ba9ab18"
-          },
-          {
             "qty": 1,
             "set": "nph",
             "setName": "New Phyrexia",
             "isFoil": true,
+            "collectorNumber": "18",
+            "scryfallId": "b4a1e16a-39f0-47ab-aba8-73e82ba9ab18"
+          },
+          {
+            "qty": 2,
+            "set": "nph",
+            "setName": "New Phyrexia",
+            "isFoil": false,
             "collectorNumber": "18",
             "scryfallId": "b4a1e16a-39f0-47ab-aba8-73e82ba9ab18"
           }
@@ -255806,18 +255866,18 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "rtr",
-            "setName": "Return to Ravnica",
-            "isFoil": true,
-            "collectorNumber": "52",
-            "scryfallId": "31a0cae5-925f-4d00-a4da-1db8bae5511b"
-          },
-          {
             "qty": 2,
             "set": "rtr",
             "setName": "Return to Ravnica",
             "isFoil": false,
+            "collectorNumber": "52",
+            "scryfallId": "31a0cae5-925f-4d00-a4da-1db8bae5511b"
+          },
+          {
+            "qty": 1,
+            "set": "rtr",
+            "setName": "Return to Ravnica",
+            "isFoil": true,
             "collectorNumber": "52",
             "scryfallId": "31a0cae5-925f-4d00-a4da-1db8bae5511b"
           }
@@ -256340,20 +256400,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "jvc",
-            "setName": "Duel Decks Anthology: Jace vs. Chandra",
-            "isFoil": false,
-            "collectorNumber": "19",
-            "scryfallId": "a8943e2c-8a85-4ca4-a7b1-87b89e697877"
-          },
-          {
             "qty": 1,
             "set": "ons",
             "setName": "Onslaught",
             "isFoil": false,
             "collectorNumber": "103",
             "scryfallId": "e93577bd-2711-443c-aa88-a235345d7800"
+          },
+          {
+            "qty": 2,
+            "set": "jvc",
+            "setName": "Duel Decks Anthology: Jace vs. Chandra",
+            "isFoil": false,
+            "collectorNumber": "19",
+            "scryfallId": "a8943e2c-8a85-4ca4-a7b1-87b89e697877"
           }
         ]
       }
@@ -257108,19 +257168,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "pkld",
-            "setName": "Kaladesh Promos",
-            "isFoil": true,
-            "collectorNumber": "52s",
-            "scryfallId": "62752979-9805-493d-9194-44105032b753"
-          },
-          {
-            "qty": 1,
             "set": "kld",
             "setName": "Kaladesh",
             "isFoil": false,
             "collectorNumber": "52",
             "scryfallId": "8eafb2bb-58bf-4c6b-ae8f-91bcea12c7d2"
+          },
+          {
+            "qty": 1,
+            "set": "pkld",
+            "setName": "Kaladesh Promos",
+            "isFoil": true,
+            "collectorNumber": "52s",
+            "scryfallId": "62752979-9805-493d-9194-44105032b753"
           }
         ]
       }
@@ -257280,18 +257340,18 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "ogw",
-            "setName": "Oath of the Gatewatch",
-            "isFoil": true,
-            "collectorNumber": "57",
-            "scryfallId": "7b3ec511-1b78-46e9-8ec2-fc09abd1b434"
-          },
-          {
             "qty": 2,
             "set": "ogw",
             "setName": "Oath of the Gatewatch",
             "isFoil": false,
+            "collectorNumber": "57",
+            "scryfallId": "7b3ec511-1b78-46e9-8ec2-fc09abd1b434"
+          },
+          {
+            "qty": 1,
+            "set": "ogw",
+            "setName": "Oath of the Gatewatch",
+            "isFoil": true,
             "collectorNumber": "57",
             "scryfallId": "7b3ec511-1b78-46e9-8ec2-fc09abd1b434"
           }
@@ -258850,20 +258910,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "5ed",
-            "setName": "Fifth Edition",
-            "isFoil": false,
-            "collectorNumber": "194",
-            "scryfallId": "657979b3-6e4f-41a8-a518-4bd329307770"
-          },
-          {
             "qty": 1,
             "set": "4ed",
             "setName": "Fourth Edition",
             "isFoil": false,
             "collectorNumber": "162",
             "scryfallId": "e4855db6-570c-4845-9074-a9df7611307a"
+          },
+          {
+            "qty": 2,
+            "set": "5ed",
+            "setName": "Fifth Edition",
+            "isFoil": false,
+            "collectorNumber": "194",
+            "scryfallId": "657979b3-6e4f-41a8-a518-4bd329307770"
           }
         ]
       }
@@ -259069,19 +259129,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "pogw",
-            "setName": "Oath of the Gatewatch Promos",
-            "isFoil": true,
-            "collectorNumber": "89s",
-            "scryfallId": "0f9d5c33-6036-43e2-8260-bdf506dd2806"
-          },
-          {
-            "qty": 1,
             "set": "ogw",
             "setName": "Oath of the Gatewatch",
             "isFoil": false,
             "collectorNumber": "89",
             "scryfallId": "1dde9379-b335-400f-9748-a7ca3e293ee0"
+          },
+          {
+            "qty": 1,
+            "set": "pogw",
+            "setName": "Oath of the Gatewatch Promos",
+            "isFoil": true,
+            "collectorNumber": "89s",
+            "scryfallId": "0f9d5c33-6036-43e2-8260-bdf506dd2806"
           }
         ]
       }
@@ -259590,7 +259650,7 @@
             "qty": 1,
             "set": "nem",
             "setName": "Nemesis",
-            "isFoil": true,
+            "isFoil": false,
             "collectorNumber": "61",
             "scryfallId": "f13a3ed0-aa57-4082-b6b0-b1078c93c0b2"
           },
@@ -259598,7 +259658,7 @@
             "qty": 1,
             "set": "nem",
             "setName": "Nemesis",
-            "isFoil": false,
+            "isFoil": true,
             "collectorNumber": "61",
             "scryfallId": "f13a3ed0-aa57-4082-b6b0-b1078c93c0b2"
           }
@@ -259658,7 +259718,7 @@
             "qty": 1,
             "set": "soi",
             "setName": "Shadows over Innistrad",
-            "isFoil": false,
+            "isFoil": true,
             "collectorNumber": "124",
             "scryfallId": "b804cb9c-349e-4143-a372-cf65470d5b46"
           },
@@ -259666,7 +259726,7 @@
             "qty": 1,
             "set": "soi",
             "setName": "Shadows over Innistrad",
-            "isFoil": true,
+            "isFoil": false,
             "collectorNumber": "124",
             "scryfallId": "b804cb9c-349e-4143-a372-cf65470d5b46"
           }
@@ -259708,20 +259768,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "psom",
-            "setName": "Scars of Mirrodin Promos",
-            "isFoil": true,
-            "collectorNumber": "69★",
-            "scryfallId": "c9d74bae-0b96-4a78-b805-a0b764d0716c"
-          },
-          {
             "qty": 7,
             "set": "som",
             "setName": "Scars of Mirrodin",
             "isFoil": false,
             "collectorNumber": "69",
             "scryfallId": "acc5b944-a9fe-4a64-bf11-51817a26f22b"
+          },
+          {
+            "qty": 2,
+            "set": "psom",
+            "setName": "Scars of Mirrodin Promos",
+            "isFoil": true,
+            "collectorNumber": "69★",
+            "scryfallId": "c9d74bae-0b96-4a78-b805-a0b764d0716c"
           }
         ]
       }
@@ -259732,19 +259792,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 2,
-            "set": "sth",
-            "setName": "Stronghold",
-            "isFoil": false,
-            "collectorNumber": "62",
-            "scryfallId": "4eacd05b-078a-468c-b137-a802346d348a"
-          },
-          {
-            "qty": 2,
             "set": "m10",
             "setName": "Magic 2010",
             "isFoil": false,
             "collectorNumber": "104",
             "scryfallId": "3b04fca4-b4de-4343-ba58-d8aea39edc19"
+          },
+          {
+            "qty": 2,
+            "set": "sth",
+            "setName": "Stronghold",
+            "isFoil": false,
+            "collectorNumber": "62",
+            "scryfallId": "4eacd05b-078a-468c-b137-a802346d348a"
           }
         ]
       }
@@ -260095,21 +260155,6 @@
         ]
       }
     },
-    "haunted crossroads": {
-      "name": "Haunted Crossroads",
-      "owners": {
-        "Bruno (Sta Fe)": [
-          {
-            "qty": 1,
-            "set": "mmq",
-            "setName": "Mercadian Masques",
-            "isFoil": false,
-            "collectorNumber": "138",
-            "scryfallId": "3c065cae-1ed5-445e-ace3-e81cf4c773de"
-          }
-        ]
-      }
-    },
     "halo hunter": {
       "name": "Halo Hunter",
       "owners": {
@@ -260235,20 +260280,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "c15",
-            "setName": "Commander 2015",
-            "isFoil": false,
-            "collectorNumber": "127",
-            "scryfallId": "ea315dab-e35d-4fdf-8574-b22e70643063"
-          },
-          {
             "qty": 2,
             "set": "bng",
             "setName": "Born of the Gods",
             "isFoil": false,
             "collectorNumber": "73",
             "scryfallId": "8ce5e6c4-02c8-4602-96d6-19dad34f7804"
+          },
+          {
+            "qty": 1,
+            "set": "c15",
+            "setName": "Commander 2015",
+            "isFoil": false,
+            "collectorNumber": "127",
+            "scryfallId": "ea315dab-e35d-4fdf-8574-b22e70643063"
           }
         ]
       }
@@ -260348,6 +260393,14 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
+            "qty": 1,
+            "set": "5ed",
+            "setName": "Fifth Edition",
+            "isFoil": false,
+            "collectorNumber": "161",
+            "scryfallId": "68022e3e-99d0-4f14-9ef8-17f27a157edd"
+          },
+          {
             "qty": 2,
             "set": "btd",
             "setName": "Beatdown Box Set",
@@ -260362,14 +260415,6 @@
             "isFoil": false,
             "collectorNumber": "134",
             "scryfallId": "612ecb2c-e732-40cc-9e92-d18b80a26c4c"
-          },
-          {
-            "qty": 1,
-            "set": "5ed",
-            "setName": "Fifth Edition",
-            "isFoil": false,
-            "collectorNumber": "161",
-            "scryfallId": "68022e3e-99d0-4f14-9ef8-17f27a157edd"
           }
         ]
       }
@@ -261070,20 +261115,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 3,
-            "set": "tmp",
-            "setName": "Tempest",
-            "isFoil": false,
-            "collectorNumber": "109",
-            "scryfallId": "5a89ba1b-e68b-4d70-a25e-27be9bf48a3b"
-          },
-          {
             "qty": 4,
             "set": "6ed",
             "setName": "Classic Sixth Edition",
             "isFoil": false,
             "collectorNumber": "115",
             "scryfallId": "a6b30e7e-f628-4ae0-8338-c95022b3fedf"
+          },
+          {
+            "qty": 3,
+            "set": "tmp",
+            "setName": "Tempest",
+            "isFoil": false,
+            "collectorNumber": "109",
+            "scryfallId": "5a89ba1b-e68b-4d70-a25e-27be9bf48a3b"
           }
         ]
       }
@@ -262143,20 +262188,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "usg",
-            "setName": "Urza's Saga",
-            "isFoil": false,
-            "collectorNumber": "212",
-            "scryfallId": "4175d6e4-98fc-46f6-b549-c13e9f647eef"
-          },
-          {
             "qty": 3,
             "set": "10e",
             "setName": "Tenth Edition",
             "isFoil": false,
             "collectorNumber": "227",
             "scryfallId": "406f7fef-00f0-4ca5-ada4-c4a760e68467"
+          },
+          {
+            "qty": 1,
+            "set": "usg",
+            "setName": "Urza's Saga",
+            "isFoil": false,
+            "collectorNumber": "212",
+            "scryfallId": "4175d6e4-98fc-46f6-b549-c13e9f647eef"
           }
         ]
       }
@@ -262257,19 +262302,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "8ed",
-            "setName": "Eighth Edition",
-            "isFoil": false,
-            "collectorNumber": "216",
-            "scryfallId": "d805f1f4-ac45-404d-b52c-4d5eb019e24a"
-          },
-          {
-            "qty": 1,
             "set": "p8ed",
             "setName": "Eighth Edition Promos",
             "isFoil": true,
             "collectorNumber": "216★",
             "scryfallId": "1e0b6ca1-9008-48dc-8103-2fe4def3c345"
+          },
+          {
+            "qty": 1,
+            "set": "8ed",
+            "setName": "Eighth Edition",
+            "isFoil": false,
+            "collectorNumber": "216",
+            "scryfallId": "d805f1f4-ac45-404d-b52c-4d5eb019e24a"
           }
         ]
       }
@@ -262977,20 +263022,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "p02",
-            "setName": "Portal Second Age",
-            "isFoil": false,
-            "collectorNumber": "108",
-            "scryfallId": "92bec2e0-a016-42bd-85d9-fbb262998110"
-          },
-          {
             "qty": 2,
             "set": "5dn",
             "setName": "Fifth Dawn",
             "isFoil": false,
             "collectorNumber": "72",
             "scryfallId": "57670afe-cc40-44f5-b97c-a8f0377c710a"
+          },
+          {
+            "qty": 1,
+            "set": "p02",
+            "setName": "Portal Second Age",
+            "isFoil": false,
+            "collectorNumber": "108",
+            "scryfallId": "92bec2e0-a016-42bd-85d9-fbb262998110"
           }
         ]
       }
@@ -263016,19 +263061,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "proe",
-            "setName": "Rise of the Eldrazi Promos",
-            "isFoil": true,
-            "collectorNumber": "156★",
-            "scryfallId": "72c0427d-4666-407d-b5f6-03836dff52ae"
-          },
-          {
-            "qty": 1,
             "set": "roe",
             "setName": "Rise of the Eldrazi",
             "isFoil": false,
             "collectorNumber": "156",
             "scryfallId": "b2159a7d-e37a-4c43-a7b9-1e7179a7e43b"
+          },
+          {
+            "qty": 1,
+            "set": "proe",
+            "setName": "Rise of the Eldrazi Promos",
+            "isFoil": true,
+            "collectorNumber": "156★",
+            "scryfallId": "72c0427d-4666-407d-b5f6-03836dff52ae"
           }
         ]
       }
@@ -263822,7 +263867,7 @@
             "qty": 1,
             "set": "avr",
             "setName": "Avacyn Restored",
-            "isFoil": true,
+            "isFoil": false,
             "collectorNumber": "133",
             "scryfallId": "7aa45bfd-7075-470d-8aaa-16e34109eb5a"
           },
@@ -263830,7 +263875,7 @@
             "qty": 1,
             "set": "avr",
             "setName": "Avacyn Restored",
-            "isFoil": false,
+            "isFoil": true,
             "collectorNumber": "133",
             "scryfallId": "7aa45bfd-7075-470d-8aaa-16e34109eb5a"
           }
@@ -264165,14 +264210,6 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "m14",
-            "setName": "Magic 2014",
-            "isFoil": false,
-            "collectorNumber": "134",
-            "scryfallId": "ca08d3ce-a3a7-49ca-aa2f-4dcdacbf923d"
-          },
-          {
             "qty": 5,
             "set": "m12",
             "setName": "Magic 2012",
@@ -264187,6 +264224,14 @@
             "isFoil": true,
             "collectorNumber": "126★",
             "scryfallId": "c7c319cd-74ed-4ad8-ac0f-efb932bf5813"
+          },
+          {
+            "qty": 1,
+            "set": "m14",
+            "setName": "Magic 2014",
+            "isFoil": false,
+            "collectorNumber": "134",
+            "scryfallId": "ca08d3ce-a3a7-49ca-aa2f-4dcdacbf923d"
           }
         ]
       }
@@ -264580,19 +264625,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "uds",
-            "setName": "Urza's Destiny",
-            "isFoil": false,
-            "collectorNumber": "125",
-            "scryfallId": "c9e3934e-6169-416e-92bb-359e41900c3b"
-          },
-          {
-            "qty": 1,
             "set": "9ed",
             "setName": "Ninth Edition",
             "isFoil": false,
             "collectorNumber": "284",
             "scryfallId": "18637e89-4794-46a8-bb80-b35211648d4f"
+          },
+          {
+            "qty": 1,
+            "set": "uds",
+            "setName": "Urza's Destiny",
+            "isFoil": false,
+            "collectorNumber": "125",
+            "scryfallId": "c9e3934e-6169-416e-92bb-359e41900c3b"
           }
         ]
       }
@@ -265091,20 +265136,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "mm2",
-            "setName": "Modern Masters 2015",
-            "isFoil": false,
-            "collectorNumber": "165",
-            "scryfallId": "1cfdd410-391b-4b71-8139-f5a30653097a"
-          },
-          {
             "qty": 2,
             "set": "fut",
             "setName": "Future Sight",
             "isFoil": false,
             "collectorNumber": "153",
             "scryfallId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba"
+          },
+          {
+            "qty": 1,
+            "set": "mm2",
+            "setName": "Modern Masters 2015",
+            "isFoil": false,
+            "collectorNumber": "165",
+            "scryfallId": "1cfdd410-391b-4b71-8139-f5a30653097a"
           }
         ]
       }
@@ -265460,18 +265505,18 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "m12",
-            "setName": "Magic 2012",
-            "isFoil": true,
-            "collectorNumber": "195",
-            "scryfallId": "d56c82ad-5eb1-4653-8f02-e9bb1f6f3154"
-          },
-          {
             "qty": 9,
             "set": "m12",
             "setName": "Magic 2012",
             "isFoil": false,
+            "collectorNumber": "195",
+            "scryfallId": "d56c82ad-5eb1-4653-8f02-e9bb1f6f3154"
+          },
+          {
+            "qty": 1,
+            "set": "m12",
+            "setName": "Magic 2012",
+            "isFoil": true,
             "collectorNumber": "195",
             "scryfallId": "d56c82ad-5eb1-4653-8f02-e9bb1f6f3154"
           }
@@ -265656,20 +265701,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 4,
-            "set": "mmq",
-            "setName": "Mercadian Masques",
-            "isFoil": false,
-            "collectorNumber": "262",
-            "scryfallId": "7b19b453-8393-424d-9578-3ab568c92882"
-          },
-          {
             "qty": 1,
             "set": "8ed",
             "setName": "Eighth Edition",
             "isFoil": false,
             "collectorNumber": "276",
             "scryfallId": "0dbd99aa-af0a-489d-9be1-d3aaa0a1f5a4"
+          },
+          {
+            "qty": 4,
+            "set": "mmq",
+            "setName": "Mercadian Masques",
+            "isFoil": false,
+            "collectorNumber": "262",
+            "scryfallId": "7b19b453-8393-424d-9578-3ab568c92882"
           }
         ]
       }
@@ -265867,20 +265912,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 4,
-            "set": "6ed",
-            "setName": "Classic Sixth Edition",
-            "isFoil": false,
-            "collectorNumber": "244",
-            "scryfallId": "a4c9b18c-4993-4ce1-b2bd-ab14c9f3aad7"
-          },
-          {
             "qty": 2,
             "set": "5ed",
             "setName": "Fifth Edition",
             "isFoil": false,
             "collectorNumber": "317",
             "scryfallId": "d9ee195a-c331-4918-ad9e-3877dd3f4e3a"
+          },
+          {
+            "qty": 4,
+            "set": "6ed",
+            "setName": "Classic Sixth Edition",
+            "isFoil": false,
+            "collectorNumber": "244",
+            "scryfallId": "a4c9b18c-4993-4ce1-b2bd-ab14c9f3aad7"
           },
           {
             "qty": 8,
@@ -266026,20 +266071,20 @@
             "scryfallId": "ae0559d4-0015-44e4-8ec4-08bb1c54eec5"
           },
           {
-            "qty": 1,
-            "set": "10e",
-            "setName": "Tenth Edition",
-            "isFoil": false,
-            "collectorNumber": "284",
-            "scryfallId": "94bea6a3-a8eb-42c5-9224-89cdac7e8523"
-          },
-          {
             "qty": 2,
             "set": "tmp",
             "setName": "Tempest",
             "isFoil": false,
             "collectorNumber": "243",
             "scryfallId": "0ad7a961-d3a1-471a-8472-8407d1057de0"
+          },
+          {
+            "qty": 1,
+            "set": "10e",
+            "setName": "Tenth Edition",
+            "isFoil": false,
+            "collectorNumber": "284",
+            "scryfallId": "94bea6a3-a8eb-42c5-9224-89cdac7e8523"
           }
         ]
       }
@@ -266297,20 +266342,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 3,
-            "set": "4ed",
-            "setName": "Fourth Edition",
-            "isFoil": false,
-            "collectorNumber": "263",
-            "scryfallId": "16524bd2-0d88-451c-a394-7d5fe204dfc6"
-          },
-          {
             "qty": 4,
             "set": "5ed",
             "setName": "Fifth Edition",
             "isFoil": false,
             "collectorNumber": "315",
             "scryfallId": "ba4c0606-f9af-4dee-bc36-5051395b5f44"
+          },
+          {
+            "qty": 3,
+            "set": "4ed",
+            "setName": "Fourth Edition",
+            "isFoil": false,
+            "collectorNumber": "263",
+            "scryfallId": "16524bd2-0d88-451c-a394-7d5fe204dfc6"
           }
         ]
       }
@@ -266665,20 +266710,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "pktk",
-            "setName": "Khans of Tarkir Promos",
-            "isFoil": false,
-            "collectorNumber": "134",
-            "scryfallId": "f18d7e24-3ba9-458e-a8e1-05a9834e0cce"
-          },
-          {
             "qty": 4,
             "set": "ktk",
             "setName": "Khans of Tarkir",
             "isFoil": false,
             "collectorNumber": "134",
             "scryfallId": "0995e041-fe90-4459-8c70-fd9851ecf830"
+          },
+          {
+            "qty": 1,
+            "set": "pktk",
+            "setName": "Khans of Tarkir Promos",
+            "isFoil": false,
+            "collectorNumber": "134",
+            "scryfallId": "f18d7e24-3ba9-458e-a8e1-05a9834e0cce"
           }
         ]
       }
@@ -267327,20 +267372,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 6,
-            "set": "uds",
-            "setName": "Urza's Destiny",
-            "isFoil": false,
-            "collectorNumber": "102",
-            "scryfallId": "2523c403-0025-48c7-8ff1-e66ca27ee585"
-          },
-          {
             "qty": 1,
             "set": "7ed",
             "setName": "Seventh Edition",
             "isFoil": false,
             "collectorNumber": "235",
             "scryfallId": "91fc8eca-7549-45b5-b3db-89a58d7d2a4a"
+          },
+          {
+            "qty": 6,
+            "set": "uds",
+            "setName": "Urza's Destiny",
+            "isFoil": false,
+            "collectorNumber": "102",
+            "scryfallId": "2523c403-0025-48c7-8ff1-e66ca27ee585"
           }
         ]
       }
@@ -267840,19 +267885,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "inv",
-            "setName": "Invasion",
-            "isFoil": false,
-            "collectorNumber": "287",
-            "scryfallId": "62dc1df7-b9db-4f5f-a340-08287cd3d9e5"
-          },
-          {
-            "qty": 1,
             "set": "tsb",
             "setName": "Time Spiral Timeshifted",
             "isFoil": true,
             "collectorNumber": "105",
             "scryfallId": "35be3cbb-88e8-4f4d-90bb-3ee302f3b12e"
+          },
+          {
+            "qty": 1,
+            "set": "inv",
+            "setName": "Invasion",
+            "isFoil": false,
+            "collectorNumber": "287",
+            "scryfallId": "62dc1df7-b9db-4f5f-a340-08287cd3d9e5"
           }
         ]
       }
@@ -267877,20 +267922,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 7,
-            "set": "pshm",
-            "setName": "Shadowmoor Promos",
-            "isFoil": true,
-            "collectorNumber": "222★",
-            "scryfallId": "fbecaab0-e5d7-4bec-9fb5-c24b587eaa42"
-          },
-          {
             "qty": 1,
             "set": "shm",
             "setName": "Shadowmoor",
             "isFoil": false,
             "collectorNumber": "222",
             "scryfallId": "ae04d776-c9e3-4ff7-998d-d264754d61db"
+          },
+          {
+            "qty": 7,
+            "set": "pshm",
+            "setName": "Shadowmoor Promos",
+            "isFoil": true,
+            "collectorNumber": "222★",
+            "scryfallId": "fbecaab0-e5d7-4bec-9fb5-c24b587eaa42"
           }
         ]
       }
@@ -268290,21 +268335,6 @@
             "isFoil": true,
             "collectorNumber": "197",
             "scryfallId": "4c9dddd3-7c8d-4669-8298-58149b142b8a"
-          }
-        ]
-      }
-    },
-    "ruthless lawbringer": {
-      "name": "Ruthless Lawbringer",
-      "owners": {
-        "Bruno (Sta Fe)": [
-          {
-            "qty": 1,
-            "set": "otj",
-            "setName": "Outlaws of Thunder Junction",
-            "isFoil": false,
-            "collectorNumber": "229",
-            "scryfallId": "927b5498-23f1-47c0-b441-7daaeb54f9b8"
           }
         ]
       }
@@ -268727,18 +268757,18 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "dtk",
-            "setName": "Dragons of Tarkir",
-            "isFoil": false,
-            "collectorNumber": "227",
-            "scryfallId": "c7a7f500-594d-4c7b-80e8-54ae1ada2444"
-          },
-          {
             "qty": 1,
             "set": "dtk",
             "setName": "Dragons of Tarkir",
             "isFoil": true,
+            "collectorNumber": "227",
+            "scryfallId": "c7a7f500-594d-4c7b-80e8-54ae1ada2444"
+          },
+          {
+            "qty": 2,
+            "set": "dtk",
+            "setName": "Dragons of Tarkir",
+            "isFoil": false,
             "collectorNumber": "227",
             "scryfallId": "c7a7f500-594d-4c7b-80e8-54ae1ada2444"
           }
@@ -269107,7 +269137,7 @@
             "qty": 1,
             "set": "emn",
             "setName": "Eldritch Moon",
-            "isFoil": true,
+            "isFoil": false,
             "collectorNumber": "185",
             "scryfallId": "6448b2e2-01b2-4693-b41e-263909dc6a95"
           },
@@ -269115,7 +269145,7 @@
             "qty": 1,
             "set": "emn",
             "setName": "Eldritch Moon",
-            "isFoil": false,
+            "isFoil": true,
             "collectorNumber": "185",
             "scryfallId": "6448b2e2-01b2-4693-b41e-263909dc6a95"
           }
@@ -270330,18 +270360,18 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 3,
-            "set": "pls",
-            "setName": "Planeshift",
-            "isFoil": false,
-            "collectorNumber": "135",
-            "scryfallId": "324bc757-9942-4862-b691-5af42e07f682"
-          },
-          {
             "qty": 1,
             "set": "pls",
             "setName": "Planeshift",
             "isFoil": true,
+            "collectorNumber": "135",
+            "scryfallId": "324bc757-9942-4862-b691-5af42e07f682"
+          },
+          {
+            "qty": 3,
+            "set": "pls",
+            "setName": "Planeshift",
+            "isFoil": false,
             "collectorNumber": "135",
             "scryfallId": "324bc757-9942-4862-b691-5af42e07f682"
           }
@@ -271134,19 +271164,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "ice",
-            "setName": "Ice Age",
-            "isFoil": false,
-            "collectorNumber": "324",
-            "scryfallId": "47ac44d0-8090-4e7b-ac47-c567294f185e"
-          },
-          {
-            "qty": 1,
             "set": "9ed",
             "setName": "Ninth Edition",
             "isFoil": false,
             "collectorNumber": "301",
             "scryfallId": "2ede9d6b-3c7c-4a5f-a09b-80ec471692b6"
+          },
+          {
+            "qty": 1,
+            "set": "ice",
+            "setName": "Ice Age",
+            "isFoil": false,
+            "collectorNumber": "324",
+            "scryfallId": "47ac44d0-8090-4e7b-ac47-c567294f185e"
           }
         ]
       }
@@ -271157,19 +271187,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "c13",
-            "setName": "Commander 2013",
-            "isFoil": false,
-            "collectorNumber": "244",
-            "scryfallId": "72da56bd-dd1c-4b3c-a655-afa31e9adca0"
-          },
-          {
-            "qty": 1,
             "set": "dka",
             "setName": "Dark Ascension",
             "isFoil": false,
             "collectorNumber": "152",
             "scryfallId": "72825270-d5c1-4ab1-903a-e2868ade17f2"
+          },
+          {
+            "qty": 1,
+            "set": "c13",
+            "setName": "Commander 2013",
+            "isFoil": false,
+            "collectorNumber": "244",
+            "scryfallId": "72da56bd-dd1c-4b3c-a655-afa31e9adca0"
           }
         ]
       }
@@ -271178,6 +271208,14 @@
       "name": "Jalum Tome",
       "owners": {
         "Bruno (Sta Fe)": [
+          {
+            "qty": 2,
+            "set": "c14",
+            "setName": "Commander 2014",
+            "isFoil": false,
+            "collectorNumber": "242",
+            "scryfallId": "dbf531e2-9a4f-4e8b-836e-065c49f58a31"
+          },
           {
             "qty": 2,
             "set": "6ed",
@@ -271193,14 +271231,6 @@
             "isFoil": false,
             "collectorNumber": "382",
             "scryfallId": "b8fe15fc-420f-49fe-a7d8-84dd74964ce5"
-          },
-          {
-            "qty": 2,
-            "set": "c14",
-            "setName": "Commander 2014",
-            "isFoil": false,
-            "collectorNumber": "242",
-            "scryfallId": "dbf531e2-9a4f-4e8b-836e-065c49f58a31"
           }
         ]
       }
@@ -271533,18 +271563,18 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 1,
-            "set": "arb",
-            "setName": "Alara Reborn",
-            "isFoil": true,
-            "collectorNumber": "5",
-            "scryfallId": "9650a717-b1e4-4cd2-894d-766f6b311369"
-          },
-          {
             "qty": 3,
             "set": "arb",
             "setName": "Alara Reborn",
             "isFoil": false,
+            "collectorNumber": "5",
+            "scryfallId": "9650a717-b1e4-4cd2-894d-766f6b311369"
+          },
+          {
+            "qty": 1,
+            "set": "arb",
+            "setName": "Alara Reborn",
+            "isFoil": true,
             "collectorNumber": "5",
             "scryfallId": "9650a717-b1e4-4cd2-894d-766f6b311369"
           }
@@ -271616,18 +271646,18 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 4,
-            "set": "nph",
-            "setName": "New Phyrexia",
-            "isFoil": false,
-            "collectorNumber": "135",
-            "scryfallId": "ff9c4451-dd17-4859-a31d-62ed2430c63c"
-          },
-          {
             "qty": 1,
             "set": "nph",
             "setName": "New Phyrexia",
             "isFoil": true,
+            "collectorNumber": "135",
+            "scryfallId": "ff9c4451-dd17-4859-a31d-62ed2430c63c"
+          },
+          {
+            "qty": 4,
+            "set": "nph",
+            "setName": "New Phyrexia",
+            "isFoil": false,
             "collectorNumber": "135",
             "scryfallId": "ff9c4451-dd17-4859-a31d-62ed2430c63c"
           }
@@ -271680,7 +271710,7 @@
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
-            "isFoil": false,
+            "isFoil": true,
             "collectorNumber": "248",
             "scryfallId": "ee1e0a96-af80-444e-a456-5b256cf60625"
           },
@@ -271688,7 +271718,7 @@
             "qty": 1,
             "set": "sos",
             "setName": "Secrets of Strixhaven",
-            "isFoil": true,
+            "isFoil": false,
             "collectorNumber": "248",
             "scryfallId": "ee1e0a96-af80-444e-a456-5b256cf60625"
           }
@@ -272166,19 +272196,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 2,
-            "set": "5dn",
-            "setName": "Fifth Dawn",
-            "isFoil": false,
-            "collectorNumber": "103",
-            "scryfallId": "d4242f34-33c0-4e16-a6d9-18499dc8f2eb"
-          },
-          {
-            "qty": 2,
             "set": "mma",
             "setName": "Modern Masters",
             "isFoil": false,
             "collectorNumber": "200",
             "scryfallId": "fdb48b77-9d25-47b0-8d3b-bf52b8db23e8"
+          },
+          {
+            "qty": 2,
+            "set": "5dn",
+            "setName": "Fifth Dawn",
+            "isFoil": false,
+            "collectorNumber": "103",
+            "scryfallId": "d4242f34-33c0-4e16-a6d9-18499dc8f2eb"
           }
         ]
       }
@@ -272233,20 +272263,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 2,
-            "set": "tisd",
-            "setName": "Innistrad Tokens",
-            "isFoil": false,
-            "collectorNumber": "8",
-            "scryfallId": "afec06c5-28e3-462c-9e15-4b0c405cc810"
-          },
-          {
             "qty": 4,
             "set": "tm12",
             "setName": "Magic 2012 Tokens",
             "isFoil": false,
             "collectorNumber": "3",
             "scryfallId": "8db7e3f4-0153-425a-8edc-2747bbb89638"
+          },
+          {
+            "qty": 2,
+            "set": "tisd",
+            "setName": "Innistrad Tokens",
+            "isFoil": false,
+            "collectorNumber": "8",
+            "scryfallId": "afec06c5-28e3-462c-9e15-4b0c405cc810"
           }
         ]
       }
@@ -272257,11 +272287,11 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "tm14",
-            "setName": "Magic 2014 Tokens",
+            "set": "tsoi",
+            "setName": "Shadows over Innistrad Tokens",
             "isFoil": false,
-            "collectorNumber": "11",
-            "scryfallId": "309f1bd4-78af-4722-9d45-b5f40b001570"
+            "collectorNumber": "9",
+            "scryfallId": "0a5ac360-dc47-4bc5-a4cc-ff223abc3ffc"
           },
           {
             "qty": 1,
@@ -272273,11 +272303,11 @@
           },
           {
             "qty": 1,
-            "set": "tsoi",
-            "setName": "Shadows over Innistrad Tokens",
+            "set": "tm14",
+            "setName": "Magic 2014 Tokens",
             "isFoil": false,
-            "collectorNumber": "9",
-            "scryfallId": "0a5ac360-dc47-4bc5-a4cc-ff223abc3ffc"
+            "collectorNumber": "11",
+            "scryfallId": "309f1bd4-78af-4722-9d45-b5f40b001570"
           }
         ]
       }
@@ -272430,20 +272460,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
-            "qty": 4,
-            "set": "wwk",
-            "setName": "Worldwake",
-            "isFoil": false,
-            "collectorNumber": "145",
-            "scryfallId": "fdcf5c0f-9d18-406d-a930-c179a781264f"
-          },
-          {
             "qty": 1,
             "set": "f12",
             "setName": "Friday Night Magic 2012",
             "isFoil": true,
             "collectorNumber": "3",
             "scryfallId": "f8442521-57b8-4353-b6d0-61f1837567e1"
+          },
+          {
+            "qty": 4,
+            "set": "wwk",
+            "setName": "Worldwake",
+            "isFoil": false,
+            "collectorNumber": "145",
+            "scryfallId": "fdcf5c0f-9d18-406d-a930-c179a781264f"
           }
         ]
       }
@@ -272495,8 +272525,8 @@
             "set": "tsos",
             "setName": "Secrets of Strixhaven Tokens",
             "isFoil": false,
-            "collectorNumber": "11",
-            "scryfallId": "d0f3bd3d-08cf-4783-ae31-03770c8be69c"
+            "collectorNumber": "10",
+            "scryfallId": "877f7ddb-ed70-41a0-b845-d9bf8ac65f9b"
           }
         ]
       }
@@ -272851,20 +272881,20 @@
       "owners": {
         "Bruno (Sta Fe)": [
           {
+            "qty": 12,
+            "set": "tshm",
+            "setName": "Shadowmoor Tokens",
+            "isFoil": false,
+            "collectorNumber": "12",
+            "scryfallId": "49180301-f72f-48ca-8be1-df295e89cdd7"
+          },
+          {
             "qty": 1,
             "set": "tevg",
             "setName": "Duel Decks Anthology: Elves vs. Goblins Tokens",
             "isFoil": false,
             "collectorNumber": "2",
             "scryfallId": "209af8af-7c40-4e87-8a4e-926c7ea76fb1"
-          },
-          {
-            "qty": 12,
-            "set": "tshm",
-            "setName": "Shadowmoor Tokens",
-            "isFoil": false,
-            "collectorNumber": "5",
-            "scryfallId": "b7663358-c85c-4ba4-ac9b-6be6105363a9"
           }
         ]
       }
@@ -272950,19 +272980,19 @@
         "Bruno (Sta Fe)": [
           {
             "qty": 1,
-            "set": "tc14",
-            "setName": "Commander 2014 Tokens",
-            "isFoil": false,
-            "collectorNumber": "19",
-            "scryfallId": "445e2667-3b00-4e01-ac4b-20f4af267387"
-          },
-          {
-            "qty": 1,
             "set": "p04",
             "setName": "Magic Player Rewards 2004",
             "isFoil": false,
             "collectorNumber": "5",
             "scryfallId": "d02d5670-fff3-4011-8e45-e6843e4e8988"
+          },
+          {
+            "qty": 1,
+            "set": "tc14",
+            "setName": "Commander 2014 Tokens",
+            "isFoil": false,
+            "collectorNumber": "19",
+            "scryfallId": "445e2667-3b00-4e01-ac4b-20f4af267387"
           }
         ]
       }
