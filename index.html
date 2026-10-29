@@ -299,6 +299,9 @@ Lightning Bolt
 // ═══════════════════════════════════════════════════════════════════════════
 //  STATE
 // ═══════════════════════════════════════════════════════════════════════════
+// Cloudflare Worker for Moxfield proxy & WhatsApp redirects
+const WORKER_URL = 'https://moxfield-proxy.faguaz.workers.dev/';
+
 // cardDB: Map<lowerName, { name, owners: Map<lowerOwner, {display, qty}>, scryfallData }>
 const cardDB  = new Map();
 
@@ -1089,8 +1092,8 @@ function sendWhatsApp(ownerName) {
   const msg = buildOrderMessage(ownerName);
   if (!msg) return;
   
-  copyTextToClipboard(msg);
-  alert('⚠️ Función de WhatsApp desactivada por mantenimiento.\n\nEl pedido para ' + ownerName + ' se copió al portapapeles para que puedas enviarlo directamente por chat.');
+  const url = `${WORKER_URL}contact?to=${encodeURIComponent(ownerName)}&text=${encodeURIComponent(msg)}`;
+  window.open(url, '_blank');
 }
 
 // localStorage persistence
