@@ -27,19 +27,19 @@
       ]
     },
     {
-    "owner": "Carmelo",
+      "owner": "Carmelo",
       "urls": [
         "https://moxfield.com/decks/sUd5P7_md02ilXfmsMY4DQ"
       ]
     },
     {
-    "owner": "Licha",
+      "owner": "Licha",
       "urls": [
         "https://moxfield.com/decks/48kzlGDFP0CKHl_So1SDVA"
       ]
     },
     {
-    "owner": "Lucho",
+      "owner": "Lucho",
       "urls": [
         "https://moxfield.com/decks/x2vaYIXXm0asbtHOg_FIig",
         "https://moxfield.com/decks/12i90zi6oU68gLk84Cp7Tg",
@@ -118,25 +118,5 @@
         "https://moxfield.com/binders/-_ir2zzH3km8nCibMg8brw"
       ]
     }
-  ],
-
-  "phoneSecretNames": {
-    "Fausto":  "PHONE_VALLHAY",
-    "Nacho":   "PHONE_NACHO",
-    "Guillo": "PHONE_GUILLO",
-    "Angie": "PHONE_ANGIE",
-    "Carmelo": "PHONE_CARMELO",
-    "Licha": "PHONE_LICHA",
-    "Lucho": "PHONE_LUCHO",
-    "Rodrigo Deganutti":  "PHONE_RODRIGO_DEGANUTTI",
-    "Guille A.": "PHONE_GUILLE_A",
-    "Franco Fatala": "PHONE_FRANCO_F",
-    "Jona": "PHONE_JONA",
-    "Ruso": "PHONE_RUSO",
-    "Nicolas Deracno": "PHONE_NICO_D",
-    "Alex": "PHONE_ALEX",
-    "Eze Posadas (Sta Fe)": "PHONE_EZE_POSADA",
-    "Manuel Venturini (Sta Fe)": "PHONE_MANUEL_VENTURINI",
-    "Bruno (Sta Fe)": "PHONE_BRUNO"
-  }
+  ]
 }

@@ -18,29 +18,8 @@ jobs:
       - uses: actions/checkout@v4
 
       # ── run the fetcher ──
-      # All PHONE_* secrets are passed as env vars automatically.
       - name: Fetch card data from Moxfield
         run: node fetch.js
-        env:
-          PHONE_VALLHAY:  ${{ secrets.PHONE_VALLHAY }}
-          PHONE_NACHO:  ${{ secrets.PHONE_NACHO }}
-          PHONE_GUILLO: ${{secrets.PHONE_GUILLO}}
-          PHONE_ANGIE: ${{secrets.PHONE_ANGIE}}
-          PHONE_CARMELO: ${{secrets.PHONE_CARMELO}}
-          PHONE_LICHA: ${{secrets.PHONE_LICHA}}
-          PHONE_LUCHO: ${{secrets.PHONE_LUCHO}}
-          PHONE_RODRIGO_DEGANUTTI: ${{ secrets.PHONE_RODRIGO_DEGANUTTI }}
-          PHONE_GUILLE_A: ${{ secrets.PHONE_GUILLE_A }}
-          PHONE_FRANCO_F: ${{ secrets.PHONE_FRANCO_F }}
-          PHONE_JONA: ${{ secrets.PHONE_JONA }}
-          PHONE_RUSO: ${{ secrets.PHONE_RUSO }}
-          PHONE_ALEX: ${{ secrets.PHONE_ALEX }}
-          PHONE_NICO_D: ${{ secrets.PHONE_NICO_D }}
-          PHONE_EZE_POSADA: ${{ secrets.PHONE_EZE_POSADA }}
-          PHONE_MANUEL_VENTURINI: ${{ secrets.PHONE_MANUEL_VENTURINI }}
-          PHONE_BRUNO: ${{ secrets.PHONE_BRUNO }}
-          # ── add more phones here as you add people ──
-          # PHONE_FRIEND2:  ${{ secrets.PHONE_FRIEND2 }}
 
       # ── commit & push the new data/cards.json back to the repo ──
       # If nothing changed (no new cards), this step does nothing.

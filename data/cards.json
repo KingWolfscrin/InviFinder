@@ -3,87 +3,70 @@
   "owners": [
     {
       "name": "Fausto",
-      "phone": "+5493436235738",
       "cardCount": 3409
     },
     {
       "name": "Nacho",
-      "phone": "+5493436203329",
       "cardCount": 0
     },
     {
       "name": "Guillo",
-      "phone": "+5493435181914",
       "cardCount": 528
     },
     {
       "name": "Angie",
-      "phone": "+5493436989068",
       "cardCount": 821
     },
     {
       "name": "Carmelo",
-      "phone": "+5493704579088",
       "cardCount": 622
     },
     {
       "name": "Licha",
-      "phone": "+5493434760157",
       "cardCount": 82
     },
     {
       "name": "Lucho",
-      "phone": "+5493434514582",
       "cardCount": 899
     },
     {
       "name": "Rodrigo Deganutti",
-      "phone": "+5493434723142",
       "cardCount": 1012
     },
     {
       "name": "Guille A.",
-      "phone": "+5493435186084",
       "cardCount": 587
     },
     {
       "name": "Franco Fatala",
-      "phone": "+5493435026325",
       "cardCount": 120
     },
     {
       "name": "Jona",
-      "phone": "+5493435184749",
       "cardCount": 402
     },
     {
       "name": "Ruso",
-      "phone": "+5493435011115",
       "cardCount": 866
     },
     {
       "name": "Alex",
-      "phone": "+5493436203571",
       "cardCount": 388
     },
     {
       "name": "Nicolas Deraco",
-      "phone": "",
       "cardCount": 285
     },
     {
       "name": "Eze Posadas (Sta Fe)",
-      "phone": "+5493425193367",
       "cardCount": 0
     },
     {
       "name": "Manuel Venturini (Sta Fe)",
-      "phone": "+5493425119581",
       "cardCount": 888
     },
     {
       "name": "Bruno (Sta Fe)",
-      "phone": "+5493425578095",
       "cardCount": 3329
     }
   ],

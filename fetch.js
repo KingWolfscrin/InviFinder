@@ -4,8 +4,6 @@
  * Reads config.json → fetches each Moxfield source → writes data/cards.json
  * Runs inside GitHub Actions (no CORS issues, plain https).
  *
- * Phone numbers come from GitHub Secrets as env vars.
- * The secret names are listed in config.json → phoneSecretNames.
  *
  * Usage:  node fetch.js
  * Output: data/cards.json
@@ -234,7 +232,7 @@ async function main() {
   //   {
   //     "lastUpdated": "2026-02-03T06:00:00Z",
   //     "owners": [
-  //       { "name": "Fausto", "phone": "+54 …", "cardCount": 3063 },
+  //       { "name": "Fausto", "cardCount": 3063 },
   //     ],
   //     "cards": {
   //       "lightning bolt": {
@@ -249,7 +247,7 @@ async function main() {
   //     }
   //   }
 
-  const ownersMap = {};   // owner → { name, phone, cardCount }
+  const ownersMap = {};   // owner → { name, cardCount }
   const cardsMap  = {};   // lowerName → { name, owners: { ownerName: [printings] } }
 
   for (const src of config.sources) {
@@ -257,9 +255,7 @@ async function main() {
 
     // ensure owner exists
     if (!ownersMap[src.owner]) {
-      const secretKey = config.phoneSecretNames?.[src.owner];
-      const phone     = secretKey ? (process.env[secretKey] || '') : '';
-      ownersMap[src.owner] = { name: src.owner, phone, cardCount: 0 };
+      ownersMap[src.owner] = { name: src.owner, cardCount: 0 };
     }
 
     // handle both old format (single "url") and new format (array of "urls")
